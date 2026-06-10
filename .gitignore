@@ -1,0 +1,8 @@
+# Ignore everything...
+*
+# ...but still descend into folders to look for markdown
+!*/
+# ...and keep markdown files
+!*.md
+# ...and this file itself
+!.gitignore
