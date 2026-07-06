@@ -64,7 +64,7 @@ The options available in the tool bar are decided by which addons you have enabl
 
 ![[Navigation and workspaces-4.png]]
 
-The options you decide to show/hide entirely depends on what you use and which [[hotkeys]] you have memorized.
+The options you decide to show/hide entirely depends on what you use and which [[Hotkeys]] you have memorized.
 
 
 

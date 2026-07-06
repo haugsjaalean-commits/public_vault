@@ -1,8 +1,6 @@
 {
   "files": [],
-  "templaterFiles": [
-    "name template.md"
-  ],
+  "templaterFiles": [],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
   "useNewFileTemplateOnFileCreation": false

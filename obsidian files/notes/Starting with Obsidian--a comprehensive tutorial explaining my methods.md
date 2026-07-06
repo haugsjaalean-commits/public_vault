@@ -1,7 +1,11 @@
+---
+related:
+  - "[[my thoughts on the tutorial]]"
+---
 
 ## Notes on the tutorial
 ### About the tutorial
-This tutorial is ment to explain in as simple a manner as possible the way in which I use the Obsidian. I am not trying to explain *the* way to use Obsidian, but simply *my* way of using Obsidian, so I would encourage you to modify my system at any point to adept it to *your* needs and *your* values. 
+This tutorial is ment to explain in as simple a manner as possible the way in which I use Obsidian. I am not trying to explain *the* way to use Obsidian, but simply *my* way of using Obsidian, so I would encourage you to modify my system at any point to adept it to *your* needs and *your* values. 
 
 My notes here will act as a reference guide for what I believe to be a very efficient usage of this app, so feel free to come back to a given note as many times as you want until you get a feel for it. I have also included multiple [[tutorials]] for additional learning and reference. I would also encourage you to consult the official [Obsidian Help](https://obsidian.md/help/) website whenever necessary. 
 
@@ -16,12 +20,16 @@ To implement the things I explain, there are a few different approaches:
 N.B. My vault is bilingual, meaning that it accepts both English and French words, but you may change this at any time in the language settings. (This also means that I sometimes use to French spelling of words unknowingly, so please forgive any spelling errors.)
 
 ## Subjects
+The subjects presented here are listed in no specific order, so feel free to go to whichever one interests you the most!
+
+---
+
 [[Navigation and workspaces]]
 [[Organization]]
 [[Functionalities]]
 [[Markdown essentials]]
 [[Plugins]]
-[[hotkeys]]
+[[Hotkeys]]
 [[How I take notes]]
 
 

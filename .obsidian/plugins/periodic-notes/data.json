@@ -4,13 +4,13 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "format": "",
-    "template": "Obsidian/templates/daily note template.md",
-    "folder": "Obsidian/journal/daily",
+    "template": "",
+    "folder": "obsidian files/journal/daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "Obsidian/journal/weekly ",
+    "folder": "obsidian files/journal/weekly",
     "template": "",
     "enabled": true
   },
