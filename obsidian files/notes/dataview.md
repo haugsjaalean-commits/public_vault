@@ -1,0 +1,1 @@
+I never actually learned how to use dataview, as it was made more or less obsolete by the addition of [[bases]]. But I will still include tutorials to learn about it if you wish to go further than even me. 

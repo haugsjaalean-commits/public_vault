@@ -81,7 +81,7 @@
     "importance": "number",
     "idea used": "checkbox",
     "hidden": "checkbox",
-    "subjet": "multitext",
-    "hotekey": "multitext"
+    "hotekey": "multitext",
+    "subjects": "multitext"
   }
 }

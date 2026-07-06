@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder != "obsidian files/templates"
+    - file.tags.contains("tutorial")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - subjects
+      - YouTube link

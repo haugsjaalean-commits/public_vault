@@ -1,6 +1,8 @@
 ---
+tags:
+  - tutorial
 YouTube link:
-subjet:
+subjects:
 rating:
 ---
 ## Notes on the tutorial
