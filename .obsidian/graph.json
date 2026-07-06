@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#anthology     ",
+      "color": {
+        "a": 1,
+        "rgb": 2943120
+      }
+    },
+    {
+      "query": "tag:#art  ",
+      "color": {
+        "a": 1,
+        "rgb": 5424352
+      }
+    },
+    {
+      "query": "path:Obsidian/journal/daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 8577887
+      }
+    },
+    {
+      "query": "tag:#person  ",
+      "color": {
+        "a": 1,
+        "rgb": 3113193
+      }
+    },
+    {
+      "query": "file:.base",
+      "color": {
+        "a": 1,
+        "rgb": 15496396
+      }
+    },
+    {
+      "query": "file:.clip",
+      "color": {
+        "a": 1,
+        "rgb": 5990784
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 2.26416966845549,
+  "lineSizeMultiplier": 1.11292361978975,
+  "collapse-forces": false,
+  "centerStrength": 0.28125,
+  "repelStrength": 10.8333333333333,
+  "linkStrength": 1,
+  "linkDistance": 294,
+  "scale": 0.46214159356127377,
+  "close": true
+}

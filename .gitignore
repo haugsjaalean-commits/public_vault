@@ -4,5 +4,29 @@
 !*/
 # ...and keep markdown files
 !*.md
+# ...and images, so note embeds work
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.webp
+!*.svg
+# ...and canvases and base dashboards
+!*.canvas
+!*.base
+# ...and Obsidian config, so the vault opens as intended
+!.obsidian/**
 # ...and this file itself
 !.gitignore
+
+# But never session/machine state, even inside .obsidian
+.obsidian/workspace*.json
+.obsidian/workspaces.json
+.obsidian/webviewer.json
+.obsidian/plugins/recent-files-obsidian/data*.json
+# bookmarks still point at notes from the private vault
+.obsidian/bookmarks.json
+# proprietary font — can't be redistributed
+.obsidian/apple_garamond/
+# Dropbox sync artifacts
+*conflicted copy*
