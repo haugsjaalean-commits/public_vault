@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Obsidian/templates",
+  "templates_folder": "obsidian files/templates",
   "templates_pairs": [
     [
       "",

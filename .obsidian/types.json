@@ -80,6 +80,8 @@
     "mode": "multitext",
     "importance": "number",
     "idea used": "checkbox",
-    "hidden": "checkbox"
+    "hidden": "checkbox",
+    "subjet": "multitext",
+    "hotekey": "multitext"
   }
 }

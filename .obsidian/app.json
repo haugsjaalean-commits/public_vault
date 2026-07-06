@@ -11,7 +11,7 @@
   "attachmentFolderPath": "attachments",
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Obsidian/notes",
+  "newFileFolderPath": "obsidian files/notes",
   "showInlineTitle": true,
   "defaultViewMode": "preview"
 }
