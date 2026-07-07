@@ -1,6 +1,6 @@
 ---
 related:
-  - "[[my thoughts on the tutorial]]"
+  - "[[working on the tutorial]]"
 ---
 
 ## Notes on the tutorial
@@ -21,6 +21,8 @@ N.B. My vault is bilingual, meaning that it accepts both English and French word
 
 ## Subjects
 The subjects presented here are listed in no specific order, so feel free to go to whichever one interests you the most!
+
+If you want I quicker and more guider learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started. 
 
 ---
 

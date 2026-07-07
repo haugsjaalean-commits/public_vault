@@ -44,3 +44,15 @@ A perfect example of my use of [[YAML|frontmatter]] for describing objects is my
 ### What we can do with classes
 
 
+The most obvious utility of a classe is creating a big list of things that will be displayed in a [[bases|base]], and this is often--if not always--what we're doing, but it's not always in the way you'd expect.
+
+Let's say that we want to create a list of notes that we would like to come back to and improve
+
+
+
+
+To explain what I mean, I am going to go on a small tangent. 
+
+
+To explain what I mean, I am going to walk you through a practical example. In this example, we wish to create 
+
