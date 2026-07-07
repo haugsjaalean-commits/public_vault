@@ -7,5 +7,11 @@ views:
     name: Table
     order:
       - file.name
+      - rating
       - subjects
       - YouTube link
+    sort:
+      - property: rating
+        direction: DESC
+    columnSize:
+      note.rating: 90

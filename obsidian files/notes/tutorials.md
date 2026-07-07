@@ -2,7 +2,7 @@
 
 ## Base
 
-![[tutorial base.base]]
+[[tutorial base.base]]
 
 
 ## Tutorial series 
