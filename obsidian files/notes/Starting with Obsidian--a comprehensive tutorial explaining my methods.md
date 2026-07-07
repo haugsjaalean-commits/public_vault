@@ -31,6 +31,7 @@ The subjects presented here are listed in no specific order, so feel free to go 
 [[Plugins]]
 [[Hotkeys]]
 [[How I take notes]]
+[[Settings]]
 
 
 

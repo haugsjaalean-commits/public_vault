@@ -1,3 +1,8 @@
+---
+aliases:
+  - frontmatter
+---
+
 # YAML data
 ## Definition 
 > YAML (which stands for "YAML Ain't Markup Language") is a human-readable data format commonly used for configuration files, data exchange, and storing structured data. It's designed to be easy for people to read and write, unlike JSON or XML which are more machine-oriented.
