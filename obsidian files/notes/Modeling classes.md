@@ -56,3 +56,12 @@ To explain what I mean, I am going to go on a small tangent.
 
 To explain what I mean, I am going to walk you through a practical example. In this example, we wish to create 
 
+
+---
+
+
+As I showed in the example in the section above, we can use classes, [[bases]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complexe and abstract lists. That's what I'll be going over in this section. 
+
+
+
+

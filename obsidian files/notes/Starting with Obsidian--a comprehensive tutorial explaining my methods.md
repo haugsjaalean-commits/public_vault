@@ -24,6 +24,7 @@ The subjects presented here are listed in no specific order, so feel free to go 
 
 If you want I quicker and more guider learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started. 
 
+
 ---
 
 [[Navigation and workspaces]]
