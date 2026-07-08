@@ -1,0 +1,56 @@
+
+
+
+I have heavily customized this theme to have a very special look. To have this theme look like it does for me, copy the following text into the style settings for the theme:
+
+```
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@disable-auto-hide-header": true,
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-pexels-2114014.jpg&fm=jpg\")",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-custom-option",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark-custom": "url(\"https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?cs=srgb&dl=pexels-magda-ehlers-pexels-2114014.jpg&fm=jpg\")",
+  "blue-topaz-theme@@brightness-4-bg": 1.1,
+  "blue-topaz-theme@@saturate-4-bg": 1,
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
+  "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-dotted-notebook-2",
+  "blue-topaz-theme@@toggle-fixed-pattern": true,
+  "blue-topaz-theme@@bg-panel-page-opacity-cp": 1,
+  "blue-topaz-theme@@bg-panel-page-option": "panel-page-bg-theme-light-custom",
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@scrollbar-style-option": "remove-scrollbars",
+  "blue-topaz-theme@@toggle-divider-lines": true,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@font-text-theme": "Montserrat Alternates",
+  "blue-topaz-theme@@font-family-strong": "var(--font-text-theme)",
+  "blue-topaz-theme@@inline-title-color@@dark": "#ABD4FFAB",
+  "blue-topaz-theme@@inline-title-size": "2em",
+  "blue-topaz-theme@@inline-title-toggle-underline": true,
+  "blue-topaz-theme@@inline-title-underline-color@@dark": "#ABD4FFAB",
+  "blue-topaz-theme@@muted-activeline-bg": true,
+  "blue-topaz-theme@@fancy-hr": "fancy-hr-icon",
+  "blue-topaz-theme@@fancy-hr-icon": "'✦'",
+  "blue-topaz-theme@@folder-icons": true,
+  "blue-topaz-theme@@remove-first-folder-icon": true,
+  "blue-topaz-theme@@remove-arrow": true,
+  "blue-topaz-theme@@bt-toggle-colorful-folder": true,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-border",
+  "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-two",
+  "blue-topaz-theme@@folder-colorful-custom-color@@dark": "#D54848C7",
+  "blue-topaz-theme@@cursor-color@@dark": "#ADCAFF82",
+  "blue-topaz-theme@@stack-tabs-background-blur-depth": 40,
+  "blue-topaz-theme@@tab-head-style": "underline-tab-style",
+  "blue-topaz-theme@@highlight-style": "all-rounded-corners-highlight",
+  "blue-topaz-theme@@text-highlight-bg-h-light": 34,
+  "blue-topaz-theme@@text-highlight-bg-s-light": 100,
+  "blue-topaz-theme@@text-highlight-bg-h-dark": 10,
+  "blue-topaz-theme@@popover-width-factor": 1,
+  "blue-topaz-theme@@popover-height-factor": 1,
+  "blue-topaz-theme@@toggle-calendar-shadow": true,
+  "blue-topaz-theme@@toggle-calendar-transparent": true,
+  "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-default"
+}
+```

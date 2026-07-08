@@ -39,29 +39,24 @@ A perfect example of my use of [[YAML|frontmatter]] for describing objects is my
 
 
 
-
-
 ### What we can do with classes
 
-
-The most obvious utility of a classe is creating a big list of things that will be displayed in a [[bases|base]], and this is often--if not always--what we're doing, but it's not always in the way you'd expect.
-
-Let's say that we want to create a list of notes that we would like to come back to and improve
-
-
-
-
-To explain what I mean, I am going to go on a small tangent. 
-
-
-To explain what I mean, I am going to walk you through a practical example. In this example, we wish to create 
-
-
----
 
 
 As I showed in the example in the section above, we can use classes, [[bases]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complexe and abstract lists. That's what I'll be going over in this section. 
 
+#### My examples
+
+[[Creating task lists]]
+[[keeping track of the completeness of notes]]
+
+#### More possibilities
+
+For more ideas on what's possible with bases, consider watching Nick Milo's [[Obsidian Bases--Obsidian's Biggest Upgrade (Complete Guide)]] from `24:41`. Many of my ideas are derived/taken directly from him, although I do not use everything he suggests, and I do believe that he often times overcomplicates things.
+
+
+
+N.B. I also overcomplicate things, just in different ways: I make complicated theories so that I can have simple and grounded systems; whereas Nick Milo seemingly has no guiding philosophy, and therefore his systems seem sporadic to me. I do not think that one method is better than the other. I think that it comes down to taste. 
 
 
 

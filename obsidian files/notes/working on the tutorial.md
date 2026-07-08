@@ -4,9 +4,10 @@
 
 - [x] explain templates and templater 
 - [x] explain how to setup daily notes and weekly notes (folder structure) 
-- [ ] explain more options for doing things with metadata (task lists) 
-- [ ] explain themes
-- [ ] explain the rest of the addons 
+- [x] explain more options for doing things with metadata (task lists) 
+- [x] explain themes
+- [x] explain the rest of the addons 
+- [ ] Create the quick start file 
 
 
 
