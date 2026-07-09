@@ -82,6 +82,9 @@
     "idea used": "checkbox",
     "hidden": "checkbox",
     "hotekey": "multitext",
-    "subjects": "multitext"
+    "subjects": "multitext",
+    "children": "multitext",
+    "templates": "multitext",
+    "bases": "multitext"
   }
 }

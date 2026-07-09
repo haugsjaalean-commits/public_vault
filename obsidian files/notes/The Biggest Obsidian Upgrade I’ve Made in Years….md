@@ -1,6 +1,6 @@
 ---
 tags:
-  - tutorial
+  - object/tutorial
 YouTube link: https://youtu.be/KekL4cLtpuc?si=t9V3R0A99tlEggmL
 subjects:
   - "[[Organization]]"

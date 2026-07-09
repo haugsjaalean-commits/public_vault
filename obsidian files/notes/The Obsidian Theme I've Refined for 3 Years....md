@@ -1,6 +1,6 @@
 ---
 tags:
-  - tutorial
+  - object/tutorial
 YouTube link: https://youtu.be/l878ahBkx68?si=coteW7ayF_lyhnXl
 subjects:
   - "[[themes]]"

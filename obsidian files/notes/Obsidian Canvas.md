@@ -1,6 +1,6 @@
 ---
 tags:
-  - tutorial
+  - object/tutorial
 YouTube link: https://youtu.be/vLBd_ADeKIw?si=s8lwEmYdqbyeP-CZ
 subjects:
   - "[[canvases]]"

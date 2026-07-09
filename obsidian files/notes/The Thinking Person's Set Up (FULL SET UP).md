@@ -1,6 +1,6 @@
 ---
 tags:
-  - tutorial
+  - object/tutorial
 YouTube link: https://youtu.be/Aded2v7_vag?si=PSnKP4uFmHEA59fB
 subjects:
   - getting started

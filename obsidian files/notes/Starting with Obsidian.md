@@ -2,7 +2,7 @@
 related:
   - "[[working on the tutorial]]"
 ---
-
+# A comprehensive tutorial explaining my methods
 ## Notes on the tutorial
 ### About the tutorial
 This tutorial is ment to explain in as simple a manner as possible the way in which I use Obsidian. I am not trying to explain *the* way to use Obsidian, but simply *my* way of using Obsidian, so I would encourage you to modify my system at any point to adept it to *your* needs and *your* values. 
@@ -22,7 +22,7 @@ N.B. My vault is bilingual, meaning that it accepts both English and French word
 ## Subjects
 The subjects presented here are listed in no specific order, so feel free to go to whichever one interests you the most!
 
-If you want I quicker and more guider learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started. 
+==If you want I faster and more guider learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started.== -> [[Obsidian quick start]]
 
 
 ---
