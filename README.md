@@ -29,5 +29,5 @@ Ideas have always been very special and important to me, so, if I leave nothing 
 
 ### This vault going forwards
 
-I plan on continuing to improve and update all of the thoughts I choose to share here. As I said, I plan 
+I plan on continuing to improve and update all of the thoughts I choose to share here. As I said, I plan on sharing as many thoughts as possible. I have a lot of ideas about Obsidian and [[The theory of information]], so I will definitely be working on that for a while. 
 
