@@ -1,4 +1,4 @@
-# Top-level definitions
+## Top-level definitions
 > [!info]+ Definition of **discrete organization**
 > **Discrete organization** is a structure of information which describes **knowledge**.
 >
@@ -12,11 +12,11 @@
 > [!info]+ Definition of **organization**
 > **Organization** follows [[The principles of organization]].
 
-# The rules of discrete organization
+## The rules of discrete organization
 
 Discrete organization is built on the structure of knowledge graphs.
 
-## Definitions
+### Definitions
 > [!info]+ Definition of **knowledge graphs**
 > A **knowledge graph** is an [Arborescence (graph theory)](https://en.wikipedia.org/wiki/Arborescence_\(graph_theory\)). The root of the graph is the GP $U$.
 
@@ -42,7 +42,7 @@ Discrete organization is built on the structure of knowledge graphs.
 > [!info]+ Definition of **core concepts**
 > A **core concept** is a piece of information which is self describing (it is described by its nature alone). (These exist, because, otherwise, there would be no way to describe anything, as everything would just point to something else, which points to something else.)
 
-## Construction of the graph
+### Construction of the graph
 
 The KG is constructed step by step according to the following steps:
 1. The root $U$ is created and initially contains the set of all KIs.
@@ -54,11 +54,11 @@ N.B. As mentioned in the *definition of discrete organization*, when we are choo
 
 It might seem strange that I have been talking about *knowledge items* this whole time, instead of simply using *knowledge units*, but there is a very specific reason for this: [[multi-level organization]]. This method allows us to organize organization.
 
-# Knowledge systems
+## Knowledge systems
 
 This whole time, I have been developing a theory of moderate complexity, but for what? A theory with no application is a useless thing indeed. That is why we need [[knowledge system]]s.
 
-# Légende
+## Légende
 
 | Acronym | Term                      |
 | ------: | :------------------------ |

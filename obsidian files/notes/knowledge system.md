@@ -6,7 +6,7 @@ The second function of a KS is that it needs to be able to restructure the KG (K
 
 These two things alone pose many problems, and I think that one could devote their life to creating the perfect system. As of right now, we have nothing that comes even a little bit close to the thing that I'm describing.
 
-# Obsidian in the context of knowledge systems
+## Obsidian in the context of knowledge systems
 
 [[Obsidian in the context of knowledge systems]]
 

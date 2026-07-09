@@ -4,11 +4,11 @@ aliases:
   - information structure
   - information structures
 ---
-# Uses of structures of information
+## Uses of structures of information
 
-==[[discrete organization]]==
+[[discrete organization]]
 
-# Explanation of structures of information
+## Explanation of structures of information
 A **structure of information** is defined by the following three attributes:
 1. The **structure object**: the thing that the structure is intended to describe.
 2. The **structure rules**: the rules which describe how the information can be presented.
@@ -18,9 +18,9 @@ A structure of information is basically a bridge between reality and *documentat
 
 **A map is a structure of information**. When we create a map, we are interpreting the physical landscape of the world through the lens of the rules of cartography. And, when we look at the map, we are imagining a real landscape, by interpreting a map through the lens of the rules of cartography. As is the point of [On Exactitude in Science](https://en.wikipedia.org/wiki/On_Exactitude_in_Science), if a structure of information *was* the thing that it was trying to communicate, then it wouldn't be a structure of information at all. The whole point is that we are simplifying true reality, so that it can be easily stored, hence my use of the word "documentation".
 
-## More examples of structures of information
+### More examples of structures of information
 
-### Traffic lights
+#### Traffic lights
 
 The following attributes describe the structure of information of a traffic light:
 1. This structure describes a traffic light
@@ -32,7 +32,7 @@ Rule 1 describes the **structure object**.
 Rule 2 is the **structure rule**.
 Rules 3 and 4 are the **structure meanings**.
 
-### Sheet music
+#### Sheet music
 
 [No Other Choice](https://en.wikipedia.org/wiki/No_Other_Choice) — the daughter's sheet music
 
@@ -42,14 +42,14 @@ Sheet music is a perfect example of a structure of information. Let's use the ex
 
 Interestingly, not even an audio recording of a song is the song itself. As the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) states, if you can perfectly describe the *thing*, then it is not the thing. Once again, an audio recording is a structure of information. I won't pretend to know how it works, but sound is simplified into wavelength and intensity or something like that. These are enough to describe what we know as a song.
 
-### Written language
+#### Written language
 
 Human language can be described using the structure of information which is written language:
 - The **structure object** is human language.
 - The **structure rules** are all of the common characters present in books.
 - The **structure meanings** are impossible to describe. I would argue that the closest we will ever come to describing the structure meanings of written human language are the neural networks of [large language models](https://en.wikipedia.org/wiki/Large_language_model), which (I think) use literal vectors to describe the meaning of different concepts.
 
-## More thoughts on information structures
+### More thoughts on information structures
 
 Multiple structures of information can describe the same thing (i.e. they have the same *structure object*); for example, there are different ways of writing guitar sheet music. Different methods might have different advantages and disadvantages.
 
