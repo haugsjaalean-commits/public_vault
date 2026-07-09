@@ -9,7 +9,7 @@ aliases:
 
 Author: *claude.ai*
 
-## YAML in obsidian
+## YAML in Obsidian
 
 The easiest way to create YAML data in Obsidian is by typing `---` in the very first line of a file. This automatically creates the YAML fields and options. 
 ### Example

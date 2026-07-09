@@ -3,7 +3,7 @@
 
 ## Notes on markdown
 
-You do not have to be a master of markdown to be a master of Obsidian. There are certain actions that I have comme to use markdown for, but many things (like tables and [[metadata]]) are handled automatically or accessed easily with commands or hotkeys or right clicking.  
+You do not have to be a master of markdown to be a master of Obsidian. There are certain actions that I have come to use markdown for, but many things (like tables and [[metadata]]) are handled automatically or accessed easily with commands or hotkeys or right clicking.  
 
 
 

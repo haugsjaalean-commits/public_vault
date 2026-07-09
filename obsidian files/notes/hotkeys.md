@@ -17,4 +17,4 @@ In the settings, you can create hotkeys for almost anything, but I will be listi
 
 
 
-N.B. Not all of these hotkeys are setup by default, so you may have to venture into the realm of the settings to add them ;)
+N.B. Not all of these hotkeys are set up by default, so you may have to venture into the realm of the settings to add them ;)

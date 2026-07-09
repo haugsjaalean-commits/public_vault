@@ -1,6 +1,6 @@
 
 
-Think of this file as my guide to my guide. If that sounds stupid to you, that's because it is--deal with it. (The fact of the matter is that my tutorial isn't very structured, so this is a way for me to help you avoid waiting you time on all of the fluff and extra bonuses.)
+Think of this file as my guide to my guide. If that sounds stupid to you, that's because it is--deal with it. (The fact of the matter is that my tutorial isn't very structured, so this is a way for me to help you avoid wasting your time on all of the fluff and extra bonuses.)
 
 
 ## Chapters 
@@ -8,12 +8,12 @@ Think of this file as my guide to my guide. If that sounds stupid to you, that's
 
 ### 0 - Introduction 
 
-throughout this tutorial, the different files you will be looking at contain both links to other files and backlinks coming from other files. Looking at the backlinks can be crucial at time, as backlinks can contain important information about the file you're in. For example, I create a file with many [[tutorials]], and each tutorial links to the subject it was created for. This means that, if you are in a file about *bases*, then, if you check the backlinks, you will see a tutorial video explaining bases (which is probably more useful then reading whatever nonsense I have written). 
+Throughout this tutorial, the different files you will be looking at contain both links to other files and backlinks coming from other files. Looking at the backlinks can be crucial at times, as backlinks can contain important information about the file you're in. For example, I created a file with many [[tutorials]], and each tutorial links to the subject it was created for. This means that, if you are in a file about *bases*, then, if you check the backlinks, you will see a tutorial video explaining bases (which is probably more useful than reading whatever nonsense I have written). 
 
 ### 1 - Setting everything up
 
 
-First things first, we need to make sure that everything is setup for continuing. In order to do this, I would highly suggest that you duplicate this current vault and make it your new vault (copy you old notes into this vault, and delete all of my notes (except the note titled "O")). 
+First things first, we need to make sure that everything is set up for continuing. In order to do this, I would highly suggest that you duplicate this current vault and make it your new vault (copy your old notes into this vault, and delete all of my notes (except the note titled "O")). 
 
 If you don't want to do this, then I would suggest following along with these files before continuing:
 - [[Navigation and workspaces]]
@@ -32,7 +32,7 @@ Additionally, if you feel like touching up your Markdown skills, consider readin
 ### 3 - The structure of the vault 
 
 
-My vault has the structure of and arborescence. The whole arborescence starts in the root note which I have called "O" (but you can call it whatever you want). Using the [[Homepage]] plugin, we can easily come back to the root note (O) whenever we want. 
+My vault has the structure of an arborescence. The whole arborescence starts in the root note which I have called "O" (but you can call it whatever you want). Using the [[Homepage]] plugin, we can easily come back to the root note (O) whenever we want. 
 
 To simplify my whole theory, which I explain in [[Organization]], all we want to do is create pathways of links to lead us to the notes we want. This type of structure is usually referred to as a "MOC" ("Map Of Content"). Using this structure, we can create as many pathways as we want, and multiple pathways can lead to the same note because we're not in a folder structure, thank God!
 
@@ -48,5 +48,5 @@ Nothing here yet 🚧
 ### Conclusion
 
 
-Congratulation, you made it do the end of the quick start section! You may now return to the [[Starting with Obsidian]] and continue reading the things we didn't cover here if you so choose, but you should have everything you need to create a fun and organized vault. 
+Congratulations, you made it to the end of the quick start section! You may now return to [[Starting with Obsidian]] and continue reading the things we didn't cover here if you so choose, but you should have everything you need to create a fun and organized vault. 
 

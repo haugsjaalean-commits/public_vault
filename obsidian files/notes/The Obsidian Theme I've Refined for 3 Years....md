@@ -7,4 +7,4 @@ subjects:
 rating: 6
 ---
 ## Notes on the tutorial
-I haven't watched this one yet, but the theme of this base is basically the same as the one showed in the video. Feel free to use either one!
+I haven't watched this one yet, but the theme of this vault is basically the same as the one shown in the video. Feel free to use either one!

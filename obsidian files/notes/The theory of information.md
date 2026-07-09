@@ -2,13 +2,13 @@
 
 As I believe Artur stated once in class, math is just the creation of abstract concepts... useful abstract concepts. Even something as simple as addition is just as abstract as a derivative (which requires a number to become infinitely small). But there is nothing more useful than math. It's what has allowed us to create computers, these things that I love so much!
 
-Mon théorie repose sur les [[structures of information]].
+Ma théorie repose sur les [[structures of information]].
 
-# Curent thoughts on the theory
+# Current thoughts on the theory
 
 I think that I have built a good base, although I'm not sure that it is useful.
 
-One of the things that I want to develop more is the theory of *factoring out* certain common characteristics. After thinking far too long about organization, one starts to notice that one of the most common parts of organizing is the simple act of deciding which object we want to "highlight" (I really like the French way of saying this: "mettre en evidence"). When we are highlighting an object, that means that we are grouping it level by level, and, finally, we choose to list each objects characteristics. This is how databases work (as far as I know). As far as I can tell, most database queries function according to the following logic:
+One of the things that I want to develop more is the theory of *factoring out* certain common characteristics. After thinking far too long about organization, one starts to notice that one of the most common parts of organizing is the simple act of deciding which object we want to "highlight" (I really like the French way of saying this: "mettre en évidence"). When we are highlighting an object, that means that we are grouping it level by level, and, finally, we choose to list each object's characteristics. This is how databases work (as far as I know). As far as I can tell, most database queries function according to the following logic:
 1. We group an object.
 2. Based on that object, we list other objects.
 3. We group these objects

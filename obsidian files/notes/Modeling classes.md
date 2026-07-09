@@ -1,7 +1,7 @@
 # My idea for how to model the different datatypes and semi-objects at play in the organization of notes
 This is the toughest part of organization--the true crux of organization. 
 
-As stated above, we want to figure out the simplest and most direct way of representing the complexe mental relationships that exist between objects with this real world tool called Obsidian; this is no easy task indeed. This is the type of thing that one can spend a life time perfecting, and I plan very much on doing so. 
+As stated above, we want to figure out the simplest and most direct way of representing the complex mental relationships that exist between objects with this real world tool called Obsidian; this is no easy task indeed. This is the type of thing that one can spend a lifetime perfecting, and I plan very much on doing so. 
 
 ## Describing objects with classes
 
@@ -23,7 +23,7 @@ While I have seen other people use a different method, my current chosen method 
 #### Adding other crucial frontmatter
 
 Now that we have described what *kind* of object we are dealing with using the tag, we will need to give our object the information that will allow us to sort it in a [[bases|base]] and understand what it is. I would put these types of frontmatter into two main categories:
-1. **Organizational frontmatter** is used to sort, filter and group objects in [[bases]]. An example of this would be the use of a `raiting` parameter, which allows us to easily sort our notes in a [[bases|base]]. Moreover, we could use a `gategory` parameter to easily filter notes when creating sub [[bases]].  
+1. **Organizational frontmatter** is used to sort, filter and group objects in [[bases]]. An example of this would be the use of a `rating` parameter, which allows us to easily sort our notes in a [[bases|base]]. Moreover, we could use a `category` parameter to easily filter notes when creating sub [[bases]].  
 2. **Informational frontmatter** is used to tell us crucial information about an object. A good example of this would be a `related` parameter, which is a list of links pointing to related notes. Additionally, we could have a parameter linking to external websites, which enrich the original note, for example a link to an article or a Pinterest board. 
 
 
@@ -43,7 +43,7 @@ A perfect example of my use of [[YAML|frontmatter]] for describing objects is my
 
 
 
-As I showed in the example in the section above, we can use classes, [[bases]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complexe and abstract lists. That's what I'll be going over in this section. 
+As I showed in the example in the section above, we can use classes, [[bases]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complex and abstract lists. That's what I'll be going over in this section. 
 
 #### My examples
 

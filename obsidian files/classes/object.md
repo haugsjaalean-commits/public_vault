@@ -11,4 +11,4 @@ bases:
 | ---------- | ------------- | ----------------------------- | ------- |
 | rating     | number        | `[0, 10]`                     |         |
 | related    | list          | any link                      |         |
-| life stage | text          | `{"sead", "sapling", "Tree"}` |         |
+| life stage | text          | `{"seed", "sapling", "Tree"}` |         |

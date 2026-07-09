@@ -4,7 +4,7 @@ There are many apps out there for managing tasks, and they surely work fine, but
 
 ## Creating a task class
 
-The first and most obvious way of creating task list is by creating a class to represent each task. This is very handy, and I think that this is one of the cleaner methods. But I'll try to let the structure speak for itself. 
+The first and most obvious way of creating task lists is by creating a class to represent each task. This is very handy, and I think that this is one of the cleaner methods. But I'll try to let the structure speak for itself. 
 
 
 
@@ -29,9 +29,9 @@ This is very easy to model using a simple [[templates|template]] + [[bases|base]
 
 
 
-In my todo (or task) template, I simply add a `done` field with the property type of *checkbox*. Thereafter, in my base, I group my notes based on the `done` property, so that I can see what I have done and what I still need to do. If would like to group your notes based on a different property (like `type of todo`) then I would suggest filtering out notes where done is true. Then simply add another view to the base where you can see the tasks which you have already completed. 
+In my todo (or task) template, I simply add a `done` field with the property type of *checkbox*. Thereafter, in my base, I group my notes based on the `done` property, so that I can see what I have done and what I still need to do. If you would like to group your notes based on a different property (like `type of todo`) then I would suggest filtering out notes where done is true. Then simply add another view to the base where you can see the tasks which you have already completed. 
 
-As you can also see, I have many more properties like `urgence`, `what to do`, and `type of todo` to further contextualize my tasks and really stay on top of things. You can be as creative as you want when it comes to creating the [[metadata]] for you classes! 
+As you can also see, I have many more properties like `urgence`, `what to do`, and `type of todo` to further contextualize my tasks and really stay on top of things. You can be as creative as you want when it comes to creating the [[metadata]] for your classes! 
 
 ---
 
@@ -44,7 +44,7 @@ Another possibility is the creation of sub views in the base to allow for differ
 
 
 
-### A more complexe implementation
+### A more complex implementation
 
 
 
