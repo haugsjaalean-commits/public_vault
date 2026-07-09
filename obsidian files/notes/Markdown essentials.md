@@ -13,21 +13,23 @@ You do not have to be a master of markdown to be a master of Obsidian. There are
 These are some of the things which I consider to be extremely useful to know for a fast Obsidian workflow; however, I know that some people prefer hotkeys over typing, so it is up to you to decide what best suits your personal workflow. 
 
 
-| Text                               | Desired effect                                                                                              |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| `==highlight==`                    | ==highlight==                                                                                               |
-| `- item`                           | bullet point                                                                                                |
-| `- [ ] todo `                      | checkbox                                                                                                    |
-| `def function(x, y) -> None:`      | `inline code`                                                                                               |
-| `$1+1=3$`                          | $math$ $expressions$                                                                                        |
-| `*text*`                           | *italic*                                                                                                    |
-| `**text**`                         | **bold**                                                                                                    |
-| `***text***`                       | ***bold + italic***                                                                                         |
-| `---`                              | horizontal line                                                                                             |
-| `# text`                           | heading (adding more `#` makes smaller and smaller headings)                                                |
-| `[[file name]]`                    | a link to another file                                                                                      |
-| `[[file name#heading name]]`       | a link to a specific heading in another  file                                                               |
+|                               Text | Desired effect                                                                                              |
+| ---------------------------------: | ----------------------------------------------------------------------------------------------------------- |
+|                    `==highlight==` | ==highlight==                                                                                               |
+|                           `- item` | bullet point                                                                                                |
+|                      `- [ ] todo ` | checkbox                                                                                                    |
+|              `def function(x, y):` | `inline code`                                                                                               |
+|                          `$1+1=3$` | $math$ $expressions$                                                                                        |
+|                           `*text*` | *italic*                                                                                                    |
+|                         `**text**` | **bold**                                                                                                    |
+|                       `***text***` | ***bold + italic***                                                                                         |
+|                              `---` | horizontal line                                                                                             |
+|                           `# text` | heading (adding more `#` makes smaller and smaller headings)                                                |
+|                    `[[file name]]` | a link to another file                                                                                      |
+|       `[[file name#heading name]]` | a link to a specific heading in another  file                                                               |
 | `[[file name\|display file name]]` | display a different name for a linked file (this is what's happening when we create aliases ([[metadata]])) |
+|                         `#tagname` | creates a [[tags\|tag]]                                                                                     |
+|             `#tagname/subcategory` | creates a [[tags\|tag]] with a subcategory (this can be done as many times as you wish)                     |
 
 
 

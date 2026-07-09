@@ -36,7 +36,7 @@ N.B. In this vault, there is a *classes* folder, but you can delete or ignore it
 ## Subjects
 The subjects presented here are listed in no specific order, so feel free to go to whichever one interests you the most!
 
-==If you want a faster and more guided learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started.== -> [[Obsidian quick start]]
+==If you want a faster and more guided learning process, I made [[Obsidian quick start]] for that exact purpose, so don't hesitate to use it to get started.== -> ⚡[[Obsidian quick start]]⚡
 
 
 ---
@@ -49,6 +49,7 @@ The subjects presented here are listed in no specific order, so feel free to go 
 [[Hotkeys]]
 [[How I take notes]]
 [[Settings]]
+[[Bonus--systems we can build on top of Obsidian + creating backups]]
 
 
 

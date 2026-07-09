@@ -6,7 +6,7 @@ Think of this file as my guide to my guide. If that sounds stupid to you, that's
 ## Chapters 
 
 
-### 0 - Introduction 
+### Introduction 
 
 Throughout this tutorial, the different files you will be looking at contain both links to other files and backlinks coming from other files. Looking at the backlinks can be crucial at times, as backlinks can contain important information about the file you're in. For example, I created a file with many [[tutorials]], and each tutorial links to the subject it was created for. This means that, if you are in a file about *bases*, then, if you check the backlinks, you will see a tutorial video explaining bases (which is probably more useful than reading whatever nonsense I have written). 
 
@@ -48,5 +48,5 @@ Nothing here yet 🚧
 ### Conclusion
 
 
-Congratulations, you made it to the end of the quick start section! You may now return to [[Starting with Obsidian]] and continue reading the things we didn't cover here if you so choose, but you should have everything you need to create a fun and organized vault. 
+Congratulations, you made it to the end of the *quick start* section! You may now return to [[Starting with Obsidian]] and continue reading the things we didn't cover here if you so choose, but you should have everything you need to create a fun and organized vault. 
 

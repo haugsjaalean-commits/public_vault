@@ -13,6 +13,7 @@ In the settings, you can create hotkeys for almost anything, but I will be listi
 | `Alt + H`  | Open [[Homepage]]                            |
 | `Alt + D`  | Toggle light/dark mode                       |
 | `Alt + T`  | Choose specific [[themes\|theme]]            |
+| `Ctrl + E` | Toggle reading/editing mode                  |
 
 
 

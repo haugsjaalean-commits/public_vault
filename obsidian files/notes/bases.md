@@ -6,6 +6,8 @@ aliases:
 
 BASES ARE AMAZING!!! If you remember only one thing I say, I want it to be this. Bases are truly the thing that make Obsidian so powerful and fun.
 
+Off the bat, I would suggest checking out [[Obsidian Bases--Obsidian's Biggest Upgrade (Complete Guide)]], as it explains bases better than I ever could. In this note, I have created a watch guide for the video, so you can skip the irrelevant parts.
+
 ## Create a base
 Bases can be created using the following methods:
 1. Create a `.base` file

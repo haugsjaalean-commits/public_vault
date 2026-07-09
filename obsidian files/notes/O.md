@@ -1,11 +1,9 @@
----
-tags:
-  - "#essensce/dog"
-  - essensce/cat
----
 
 # The origine point 
+## Foundation
 [[How the vault works]]
+[[README]]
+[[object]]
 
 ## Search pathways 
 
@@ -13,6 +11,4 @@ tags:
 [[Starting with Obsidian]]
 
 
-### Building blocks
-[[object]]
 

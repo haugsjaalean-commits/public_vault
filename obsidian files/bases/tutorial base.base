@@ -1,7 +1,7 @@
 filters:
   and:
     - file.folder != "obsidian files/templates"
-    - file.tags.contains("tutorial")
+    - file.tags.contains("object/tutorial")
 views:
   - type: table
     name: Table

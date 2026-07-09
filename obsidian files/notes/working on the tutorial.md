@@ -1,4 +1,5 @@
 
+# My working file where I keep track of what needs to be done in the tutorial
 
 ## Todo
 
@@ -7,7 +8,8 @@
 - [x] explain more options for doing things with metadata (task lists) 
 - [x] explain themes
 - [x] explain the rest of the addons 
-- [ ] Create the quick start file 
+- [x] Create the quick start file 
+- [ ] go into the tags section and explain that there isn't much to say, but that people can look at the backlinks. I can also explain a bit about the different uses of tags. 
 
 
 
