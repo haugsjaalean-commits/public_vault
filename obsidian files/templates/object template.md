@@ -1,6 +1,6 @@
 ---
 tags:
-  - object
+  - video
 related:
 rating:
 life stage:

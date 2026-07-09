@@ -1,6 +1,6 @@
 ---
 tags:
-  - object/tutorial
+  - video/tutorial
 YouTube link: https://youtu.be/Za6dzBJ5zMU?si=1KEknq0x0JRW60UX
 subjects:
   - the benefits of locally stored files 

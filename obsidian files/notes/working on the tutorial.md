@@ -9,7 +9,7 @@
 - [x] explain themes
 - [x] explain the rest of the addons 
 - [x] Create the quick start file 
-- [ ] go into the tags section and explain that there isn't much to say, but that people can look at the backlinks. I can also explain a bit about the different uses of tags. 
+- [x] go into the tags section and explain that there isn't much to say, but that people can look at the backlinks. I can also explain a bit about the different uses of tags. 
 
 
 

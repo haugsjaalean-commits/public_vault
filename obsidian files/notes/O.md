@@ -4,6 +4,7 @@
 [[How the vault works]]
 [[README]]
 [[object]]
+[[videos base.base]]
 
 ## Search pathways 
 

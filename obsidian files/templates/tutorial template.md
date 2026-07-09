@@ -1,6 +1,6 @@
 ---
 tags:
-  - object/tutorial
+  - video/tutorial
 YouTube link:
 subjects:
 rating:

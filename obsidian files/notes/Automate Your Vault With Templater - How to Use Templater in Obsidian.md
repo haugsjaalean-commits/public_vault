@@ -1,6 +1,6 @@
 ---
 tags:
-  - object/tutorial
+  - video/tutorial
 YouTube link: https://youtu.be/QpJbeP8f55A?si=2PpID8Y7nqRxu-pM
 subjects:
   - "[[Templater]]"

@@ -22,6 +22,8 @@ I'm not sure that I would really be able to use Obsidian if it weren't for all o
 [[Recent Files]]
 [[Style Settings]]
 [[Tag Wrangler]]
+[[dataview]]
+
 
 
 ### Lesser plugins

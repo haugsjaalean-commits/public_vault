@@ -6,7 +6,6 @@
 [[tags]]
 [[metadata]]
 [[embedding]]
-[[dataview]]
 [[themes]]
 
 

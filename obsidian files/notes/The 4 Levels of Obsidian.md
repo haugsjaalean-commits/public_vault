@@ -1,6 +1,6 @@
 ---
 tags:
-  - object/tutorial
+  - video/tutorial
 YouTube link: https://youtu.be/J3KHlz89cRs?si=NcN1uFAn4QYaeqEE
 subjects:
   - "[[bases]]"

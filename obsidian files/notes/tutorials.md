@@ -2,7 +2,7 @@
 
 ## Base
 
-[[tutorial base.base]]
+[[videos base.base#tutorials]]
 
 
 ## Tutorial series 

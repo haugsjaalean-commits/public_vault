@@ -1,0 +1,34 @@
+filters:
+  and:
+    - file.folder != "obsidian files/templates"
+    - file.tags.contains("video")
+views:
+  - type: table
+    name: all
+    order:
+      - file.name
+      - rating
+      - subjects
+      - YouTube link
+    sort:
+      - property: rating
+        direction: DESC
+    columnSize:
+      note.rating: 90
+  - type: table
+    name: tutorials
+    filters:
+      and:
+        - file.tags.contains("video/tutorial")
+    order:
+      - file.name
+      - rating
+      - subjects
+      - YouTube link
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: rating
+        direction: DESC
+    columnSize:
+      note.rating: 90
