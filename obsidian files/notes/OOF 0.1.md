@@ -1,7 +1,8 @@
 
+# OOF 0.1: Building on top of my [[OOF 0.0|original method]] to create a more effective system
 
 
-## Building on top of my [[OOF 0.0|original method]] to create a more effective system
+## Conceptualizing the system 
 
 ### Working through what I need it to do
 
@@ -11,26 +12,50 @@ However, this linear structure does prove incredibly useful when it comes to fil
 
 Therefore, the question is how to maintain the positive aspects of inheritance and tags without the negative drawbacks the strict folder-like structure that they create.  
 
-
 ### How to do it 
 
-I think I need to take inspiration from nature. One of my parents were saying that, in the past, the evolutionary tree was faulty in the past (before genetic testing), as researchers grouped animals who had similar characteristics. However, the fact of the matter is that two species can evolve the same characteristic in parallel. In this same sense, I think it would be smart to use *essences* instead of *classes*. 
+I am completely scrapping the idea of using [[tags]]. Tags only become a hinderance. The solution, then, is to use fields for semantic relationships. For starters, I would suggest these two fields:
+1. `is a`
+2. `has a`
 
-My idea is that each essence will be an individual line of evolution. Basically, what I'm trying to describe is that 
+The only problem is that, if C is a B, and B is a A, then C is a A. This means that a [[bases|base]] which searches for all As should also find Cs and Bs. This isn't possible if all that C says is "is a B". What I take from this is that we have to "inherit" all relationships. This means that ,in the *is a* section of C, we will put this text: "is a B, A". That way, when we search for all As we will also find all Cs. I think that this should work the same for all other relations like *has a*. 
 
+N.B. If something *is a* something else, we do not only need to carry over the *is a* information, but we also need to carry of the *has a* information. 
 
+(I do think that, in some complexe situations, my method will probably fall apart, but it's the best thing I've come up with for the time being.)
+#### My Syntactic suggestion for doing this
 
-#### New 
+We could use a property of type `list` but I think this would loose us clarity; instead, I suggest simply using a `text` property. This way, we can put inherited attributes in `()`.
 
-- **behaviors** use [[metadata]]
-- **characteristics** use  **behaviors** 
-- **architypes** use **characteristics** 
+##### Example
 
+Let's say that we are creating a file for a Labrador. We would have the following relationships:
 
+`is a: dog, (mammal, animal)`
+
+This way, we clearly see that "dog" is the main thing that we want to showcase, and all of the other things are inherited from dog and simply used for querying in [[bases]]. 
 
 
 #### Can I programme it? 
 
 Probably, there is a way for me to program a plugin for Obsidian which would allow me to make the workflow work better. Consider I don't really feel like programming anything right now, I will not put too much thought into this for the time being. 
 
+
+### Thoughts on the system 
+
+I think that this system is definitely not as sophisticated as the one I envisioned in my theory, but it's still better than what I made in my previous OOF. Creating this really challenged my mind, and I think that a smarter person or a smarter Leander could probably understand it better and come up with a better way of implementing it. I'm going to try to not worry about that thought, because I don't think that it will actually help me--baby steps.
+
+
+## Building the framework
+
+
+
+
+I think that, on top of this system of attributes and inheritance, there should be a system of ***architypes***. Each architype is simply a collection of ***characteristics***. The cha
+
+
+
+Above, I discussed how we could use properties (attributes) to effectively create lines of inheritance. This is very powerful, so, in this section, I will be going over the system we can build on top of it. 
+
+---
 
