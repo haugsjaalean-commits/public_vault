@@ -4,12 +4,14 @@
 [[How the vault works]]
 [[README]]
 [[object]]
-[[videos base.base]]
 
 ## Search pathways 
 
 [[The theory of information]]
-[[Starting with Obsidian]]
+[[About Obsidian]]
+[[Efforts]]
+[[videos base.base]]
+
 
 
 

@@ -8,8 +8,4 @@ These two things alone pose many problems, and I think that one could devote the
 
 ## Obsidian in the context of knowledge systems
 
-[[Obsidian in the context of knowledge systems]]
-
----
-
-While not perfect, my current best option (as far as I know) for creating a knowledge system is Obsidian.
+Now that we have conceptualized a guiding philosophy for information and its organization, we need to put it into application. The main application of this theory is by using it to help us better organize our information. For the time being, my current method of choice for doing that is obsidian, so please read [[Methods of organization in Obsidian]] to see how I'm applying my theory to the reality of Obsidian.

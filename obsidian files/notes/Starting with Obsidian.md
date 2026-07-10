@@ -49,7 +49,7 @@ The subjects presented here are listed in no specific order, so feel free to go 
 [[Hotkeys]]
 [[How I take notes]]
 [[Settings]]
-[[Bonus--systems we can build on top of Obsidian + creating backups]]
+[[Bonus]]
 
 
 
