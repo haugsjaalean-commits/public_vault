@@ -50,12 +50,22 @@ I think that this system is definitely not as sophisticated as the one I envisio
 
 
 
-
-I think that, on top of this system of attributes and inheritance, there should be a system of ***architypes***. Each architype is simply a collection of ***characteristics***. The cha
-
-
-
 Above, I discussed how we could use properties (attributes) to effectively create lines of inheritance. This is very powerful, so, in this section, I will be going over the system we can build on top of it. 
 
 ---
 
+First of all, the [[YAML|frontmatter]] properties will have two different types:
+1. ***Characteristics***: These are the things which determine the behaviors. Characteristics are always properties with purely theoretical meaning. 
+2. ***Behaviors***: These are things which are given by characteristics. Characteristics can either add or subtract behaviors. Behaviors usually have more literal meanings. 
+
+N.B. All objects have access to all of the characteristic types; however, behavior types need to be given to an object by their characteristics.
+
+
+
+All characteristics are shared by all objects, but behaviors have to be given by characteristics. 
+
+Using characteristics and behaviors, we can create ***Architypes***. These are like classes, and they serve as collections of characteristics. 
+
+I would suggest creating a note for each Architype, in order to keep track of all of them. Another option would be using PlantUML. If one chooses to make notes to keep track of architypes, they should include the [[templates]] and [[bases]] which they're created for. These Architypes should be kept in a separate `architypes` folder. 
+
+Conversely, instead of making *architype* notes, I could make notes listing characteristics and their behaviors. The architypes folder can simply be used for templates. 

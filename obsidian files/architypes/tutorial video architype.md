@@ -1,6 +1,4 @@
 ---
-tags:
-  - video/tutorial
 YouTube link:
 subjects:
 rating:
