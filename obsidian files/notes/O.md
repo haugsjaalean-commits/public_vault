@@ -9,6 +9,9 @@
 [[Obsidian]]
 [[Information and organization]]
 [[videos base.base]]
+[[Efforts]]
+
+
 
 
 

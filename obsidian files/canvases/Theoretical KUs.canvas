@@ -1,14 +1,26 @@
 {
 	"nodes":[
-		{"id":"b7ca8802d6a075ab","type":"text","text":"artist\n+mastery/influence\n+importance to me\n","x":176,"y":320,"width":250,"height":140},
-		{"id":"3d1ae2faf2e7e97e","type":"text","text":"person\n+birthday \n+location\n","x":176,"y":80,"width":250,"height":140},
-		{"id":"a8949bfe38f28b17","type":"text","text":"visual artist\n+domain\n+medium","x":176,"y":560,"width":250,"height":120},
-		{"id":"6401f5c823660e68","type":"text","text":"video\n+YouTube link\n+subjects","x":540,"y":80,"width":201,"height":140},
-		{"id":"f218b700fe484c1e","type":"text","text":"tutorial\n+subjects","x":880,"y":80,"width":250,"height":140},
-		{"id":"372a19dfd2fb471c","x":-360,"y":80,"width":324,"height":302,"type":"text","text":"# Global behaviors\n- rating\n- life stage\n\n"}
+		{"id":"cae23bb07507b2ee","type":"group","x":320,"y":-920,"width":746,"height":580,"label":"Légende"},
+		{"id":"372a19dfd2fb471c","type":"text","text":"\n# Behaviors \n## Global behaviors\n- rating\n- life stage\n- external links\n\n\n## Local behaviors \n\n- birth date\n- death date\n- current location\n- mastery/influence\n- importance to me\n- domain\n- medium\n- field\n- genre\n- YouTube link \n- subjects\n","x":-580,"y":-60,"width":450,"height":1245},
+		{"id":"f4bade10307f4b5b","type":"text","text":" ","x":552,"y":-840,"width":50,"height":50},
+		{"id":"5119005c557ed3e3","type":"text","text":"","x":766,"y":-840,"width":50,"height":50},
+		{"id":"39bab73c1404e6c9","x":-740,"y":-309,"width":160,"height":50,"type":"text","text":"[[YAML|frontmatter]]"},
+		{"id":"6401f5c823660e68","type":"text","text":"video\n+YouTube link\n+subjects","x":1236,"y":303,"width":201,"height":140},
+		{"id":"b7ca8802d6a075ab","type":"text","text":"artist\n+mastery/influence\n+importance to me\n","x":332,"y":317,"width":250,"height":140},
+		{"id":"a8949bfe38f28b17","type":"text","text":"visual artist\n+domain\n+medium\n+field","x":120,"y":597,"width":250,"height":140},
+		{"id":"b56b9de76a7e8193","type":"text","text":"musician\n+genre","x":582,"y":597,"width":228,"height":140},
+		{"id":"3d1ae2faf2e7e97e","type":"text","text":"person\n+birth date\n+death date\n+current location\n","x":332,"y":77,"width":250,"height":151},
+		{"id":"38e8cc3370b79b47","x":1236,"y":77,"width":201,"height":120,"type":"text","text":"media "},
+		{"id":"f218b700fe484c1e","type":"text","text":"tutorial \n+subjects","x":1636,"y":77,"width":250,"height":140},
+		{"id":"651c37278346f47a","x":-1200,"y":-60,"width":353,"height":309,"type":"text","text":"# Characteristics \n- is a\n- has a"}
 	],
 	"edges":[
 		{"id":"c9396da09a28ba83","fromNode":"a8949bfe38f28b17","fromSide":"top","toNode":"b7ca8802d6a075ab","toSide":"bottom"},
-		{"id":"5bad34064c8e5ab7","fromNode":"b7ca8802d6a075ab","fromSide":"top","toNode":"3d1ae2faf2e7e97e","toSide":"bottom"}
+		{"id":"5bad34064c8e5ab7","fromNode":"b7ca8802d6a075ab","fromSide":"top","toNode":"3d1ae2faf2e7e97e","toSide":"bottom"},
+		{"id":"434943a23e7096f5","fromNode":"b56b9de76a7e8193","fromSide":"top","toNode":"b7ca8802d6a075ab","toSide":"bottom"},
+		{"id":"c4ebb9c23ab1895e","fromNode":"f4bade10307f4b5b","fromSide":"right","toNode":"5119005c557ed3e3","toSide":"left","label":"is a"},
+		{"id":"59595663296edf0b","fromNode":"38e8cc3370b79b47","fromSide":"bottom","toNode":"6401f5c823660e68","toSide":"top"},
+		{"id":"0a2ba67a4d6054e1","fromNode":"39bab73c1404e6c9","fromSide":"bottom","toNode":"651c37278346f47a","toSide":"top"},
+		{"id":"2362e26cea36d0f9","fromNode":"39bab73c1404e6c9","fromSide":"bottom","toNode":"372a19dfd2fb471c","toSide":"top"}
 	]
 }

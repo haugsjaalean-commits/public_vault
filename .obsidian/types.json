@@ -5,6 +5,9 @@
     "tags": "tags",
     "rating": "number",
     "related": "multitext",
-    "subjects": "multitext"
+    "subjects": "multitext",
+    "external links": "multitext",
+    "death date": "date",
+    "birth date": "date"
   }
 }

@@ -83,4 +83,43 @@ Conversely, instead of making *architype* notes, I could make notes listing char
 
 
 
+
+
+
+
+
+
+
+
+
+## New 
+
+### What the system needs to do - explanation
+
+
+
+### Modeling the system - rules
+
+
+
+#### What are the notes?
+
+
+
+Notes are KUs. Except, there is one caveat: notes also, in some ways, act like GPs. Because notes can be concepts, we can use concepts to create search paths which resemble those created by GPs, and one that mimics semi-rigid organization. 
+
+What I'm saying is that, instead of having two levels--one level for organization and another for connexions--we have one level where the notes themselves are used for organization. 
+
+What we get from this 
+
+
+
+
+
+
+
+
+
+
+
  
