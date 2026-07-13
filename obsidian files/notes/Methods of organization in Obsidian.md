@@ -1,8 +1,10 @@
 ---
 related:
   - "[Obsidian](https://obsidian.md)"
+aliases:
+  - method of organization in Obsidian
 ---
-# Mapping [[The theory of information|my theory]] onto Obsidian 
+# OOF: Mapping [[The theory of information|my theory]] onto Obsidian 
 
 
 ## What is "OOF"?

@@ -4,12 +4,6 @@
 
 
 
-| Characteristic | Behaviors |
-| -------------- | --------- |
-|                |           |
-
-
-
 
 Characteristic types:
 - is a
@@ -19,4 +13,7 @@ Characteristic types:
 
 global behaviors:
 - rating 
-- 
+
+
+
+

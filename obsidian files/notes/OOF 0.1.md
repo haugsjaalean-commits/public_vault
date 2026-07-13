@@ -1,4 +1,4 @@
-
+ 
 # OOF 0.1: Building on top of my [[OOF 0.0|original method]] to create a more effective system
 
 
@@ -41,7 +41,7 @@ This way, we clearly see that "dog" is the main thing that we want to showcase, 
 Probably, there is a way for me to program a plugin for Obsidian which would allow me to make the workflow work better. Consider I don't really feel like programming anything right now, I will not put too much thought into this for the time being. 
 
 
-### Thoughts on the system 
+### Thoughts on the system (I can add more here)
 
 I think that this system is definitely not as sophisticated as the one I envisioned in my theory, but it's still better than what I made in my previous OOF. Creating this really challenged my mind, and I think that a smarter person or a smarter Leander could probably understand it better and come up with a better way of implementing it. I'm going to try to not worry about that thought, because I don't think that it will actually help me--baby steps.
 
@@ -60,12 +60,27 @@ First of all, the [[YAML|frontmatter]] properties will have two different types:
 
 N.B. All objects have access to all of the characteristic types; however, behavior types need to be given to an object by their characteristics.
 
-
-
-All characteristics are shared by all objects, but behaviors have to be given by characteristics. 
+Behaviors can only be given by *is a* relationships.  
 
 Using characteristics and behaviors, we can create ***Architypes***. These are like classes, and they serve as collections of characteristics. 
 
 I would suggest creating a note for each Architype, in order to keep track of all of them. Another option would be using PlantUML. If one chooses to make notes to keep track of architypes, they should include the [[templates]] and [[bases]] which they're created for. These Architypes should be kept in a separate `architypes` folder. 
 
 Conversely, instead of making *architype* notes, I could make notes listing characteristics and their behaviors. The architypes folder can simply be used for templates. 
+
+
+
+### Dimensions of behaviors 
+- ***Dependency*** 
+	- ***Internal***: The behavior needs to be inherited
+	- ***Global***: The behavior does not need to be inherited
+- ***Function***
+	- ***Informational***: The behaviors serves the purpose of enriching the object.
+	- ***Organizational***: The behaviors aids in the organization or placement of the note in the KG. 
+
+
+## Working on it
+
+
+
+ 

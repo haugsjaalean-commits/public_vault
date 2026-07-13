@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b7ca8802d6a075ab","type":"text","text":"artist\n+mastery/influence\n+importance to me\n","x":176,"y":320,"width":250,"height":140},
+		{"id":"3d1ae2faf2e7e97e","type":"text","text":"person\n+birthday \n+location\n","x":176,"y":80,"width":250,"height":140},
+		{"id":"a8949bfe38f28b17","type":"text","text":"visual artist\n+domain\n+medium","x":176,"y":560,"width":250,"height":120},
+		{"id":"6401f5c823660e68","type":"text","text":"video\n+YouTube link\n+subjects","x":540,"y":80,"width":201,"height":140},
+		{"id":"f218b700fe484c1e","type":"text","text":"tutorial\n+subjects","x":880,"y":80,"width":250,"height":140},
+		{"id":"372a19dfd2fb471c","x":-360,"y":80,"width":324,"height":302,"type":"text","text":"# Global behaviors\n- rating\n- life stage\n\n"}
+	],
+	"edges":[
+		{"id":"c9396da09a28ba83","fromNode":"a8949bfe38f28b17","fromSide":"top","toNode":"b7ca8802d6a075ab","toSide":"bottom"},
+		{"id":"5bad34064c8e5ab7","fromNode":"b7ca8802d6a075ab","fromSide":"top","toNode":"3d1ae2faf2e7e97e","toSide":"bottom"}
+	]
+}

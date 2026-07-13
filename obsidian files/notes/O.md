@@ -3,13 +3,11 @@
 ## Foundation
 [[How the vault works]]
 [[README]]
-[[object]]
 
 ## Search pathways 
 
-[[The theory of information]]
-[[About Obsidian]]
-[[Efforts]]
+[[Obsidian]]
+[[Information and organization]]
 [[videos base.base]]
 
 
