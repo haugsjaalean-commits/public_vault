@@ -44,12 +44,19 @@ In the same way Nick Milo says that color is a way of sparking creativity, I thi
 
 
 
-## Notes and KUs
+## Representing KUs
 
 
 
 
-In this 
+This KS is based on the creation of notes. Each of these notes represents a KU. The question is how to represent these KUs. I could say that there are two main design philosophies when it comes to defining the KUs using notes (`.md` files). Both methods assume that KCs are being represented by a table in a database; however, the difference is in how CCs are represented. The first approach assumes that CCs are simply defined by the contents of the note, and the second approach takes a wider view of the situation and bases the CCs on the greater concept of the note. 
+
+
+
+
+
+
+The first approach represents the KUs in a logical manner by stating that the contents of each file represent its CC. 
 
 
 
