@@ -100,17 +100,30 @@ Conversely, instead of making *architype* notes, I could make notes listing char
 
 ### Modeling the system - rules
 
-
-
-#### What are the notes?
-
-
+#### How organizing works
 
 Notes are KUs. Except, there is one caveat: notes also, in some ways, act like GPs. Because notes can be concepts, we can use concepts to create search paths which resemble those created by GPs, and one that mimics semi-rigid organization. 
 
 What I'm saying is that, instead of having two levels--one level for organization and another for connexions--we have one level where the notes themselves are used for organization. 
 
-What we get from this 
+What we get from this is that I 
+
+The result of this is that notes are organized and described in two main ways. 
+1. Through the use of ***search paths***, pathways of notes which start at the MOC and are used to locate any and all notes.
+2. [[Bases]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
+
+
+#### Describing notes
+
+As explained above, notes are KUs which are either located through search paths or bases. When notes are described by search paths, their CCs and KCs are described indirectly through context clues. However, when they are described by bases, we indicate a lot of information by the sue of frontmatter. That's what I will be going over in this section. 
+
+---
+
+
+First things first, as stated in the first section of this file, we want to find a way to describe the *nature* of objects using [[YAML|frontmatter]]. 
+
+In this system, ***objects*** are what we are creating with notes. Objects are KUs, and we want to describe their nature using [[YAML|frontmatter]]
+
 
 
 
