@@ -168,5 +168,7 @@
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
   "blue-topaz-theme@@remove-file-icons": false,
   "obsidian-prism-theme@@inline-title-size": 2.9,
-  "blue-topaz-theme@@cursor-color@@dark": "#ADCAFF82"
+  "blue-topaz-theme@@cursor-color@@dark": "#ADCAFF82",
+  "blue-topaz-theme@@graph-circle@@dark": "#E1E7FF78",
+  "blue-topaz-theme@@graph-line@@dark": "#E1E7FF78"
 }

@@ -7,6 +7,13 @@ I don't think that I will find it very possible to create my perfect [[Methods o
 
 ![[The conception of Rhizomeur]]
 
+## The logo
+
+![[My perfect KS.png]]
+
+
+
+
 ## The name
 
 ideas:

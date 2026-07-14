@@ -120,9 +120,8 @@ As explained above, notes are KUs which are either located through search paths 
 ---
 
 
-First things first, as stated in the first section of this file, we want to find a way to describe the *nature* of objects using [[YAML|frontmatter]]. 
 
-In this system, ***objects*** are what we are creating with notes. Objects are KUs, and we want to describe their nature using [[YAML|frontmatter]]
+In this system, ***objects*** are what we are creating with notes. Objects are KUs, and we want to describe their *nature* using [[YAML|frontmatter]]. In order to do this, I have developed the system which I justified above ( #todo). 
 
 
 

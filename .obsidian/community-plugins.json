@@ -3,7 +3,6 @@
   "recent-files-obsidian",
   "antidote-grammar-checker-integration",
   "obsidian-emoji-toolbar",
-  "calendar",
   "templater-obsidian",
   "periodic-notes",
   "obsidian-paste-image-rename",
@@ -14,5 +13,6 @@
   "obsidian-hotkeys-for-templates",
   "homepage",
   "obsidian-hyphenation",
-  "dataview"
+  "dataview",
+  "calendar"
 ]
