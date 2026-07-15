@@ -1,5 +1,9 @@
+---
+tags:
+  - origin
+---
 
-# The origine point 
+# The origin point 
 ## Foundation
 [[How the vault works]]
 [[README]]

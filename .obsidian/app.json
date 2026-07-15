@@ -1,6 +1,6 @@
 {
-  "showLineNumber": false,
-  "readableLineLength": true,
+  "showLineNumber": true,
+  "readableLineLength": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
