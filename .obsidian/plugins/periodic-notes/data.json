@@ -4,13 +4,13 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "format": "",
-    "template": "",
-    "folder": "obsidian files/journal/daily",
+    "template": "obsidian files/notes/misc/YAML.md",
+    "folder": "obsidian files/notes/journal/daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "obsidian files/journal/weekly",
+    "folder": "obsidian files/notes/journal/weekly",
     "template": "",
     "enabled": true
   },

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "obsidian files/architypes",
+  "templates_folder": "obsidian files/notes/architypes",
   "templates_pairs": [
     [
       "",

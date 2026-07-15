@@ -90,7 +90,7 @@ What we get from this is that I
 
 The result of this is that notes are organized and described in two main ways. 
 1. Through the use of ***search paths***, pathways of notes which start at the MOC and are used to locate any and all notes.
-2. [[Bases]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
+2. [[bases]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
 
 #### Describing notes
 
