@@ -1,7 +1,6 @@
  
 # OOF 0.1: Building on top of my [[OOF 0.0|original method]] to create a more effective system
 
-
 ## Conceptualizing the system 
 
 ### Working through what I need it to do
@@ -35,20 +34,15 @@ Let's say that we are creating a file for a Labrador. We would have the followin
 
 This way, we clearly see that "dog" is the main thing that we want to showcase, and all of the other things are inherited from dog and simply used for querying in [[bases]]. 
 
-
 #### Can I programme it? 
 
 Probably, there is a way for me to program a plugin for Obsidian which would allow me to make the workflow work better. Consider I don't really feel like programming anything right now, I will not put too much thought into this for the time being. 
-
 
 ### Thoughts on the system (I can add more here)
 
 I think that this system is definitely not as sophisticated as the one I envisioned in my theory, but it's still better than what I made in my previous OOF. Creating this really challenged my mind, and I think that a smarter person or a smarter Leander could probably understand it better and come up with a better way of implementing it. I'm going to try to not worry about that thought, because I don't think that it will actually help me--baby steps.
 
-
 ## Building the framework
-
-
 
 Above, I discussed how we could use properties (attributes) to effectively create lines of inheritance. This is very powerful, so, in this section, I will be going over the system we can build on top of it. 
 
@@ -68,8 +62,6 @@ I would suggest creating a note for each Architype, in order to keep track of al
 
 Conversely, instead of making *architype* notes, I could make notes listing characteristics and their behaviors. The architypes folder can simply be used for templates. 
 
-
-
 ### Dimensions of behaviors 
 - ***Dependency*** 
 	- ***Internal***: The behavior needs to be inherited
@@ -78,19 +70,7 @@ Conversely, instead of making *architype* notes, I could make notes listing char
 	- ***Informational***: The behaviors serves the purpose of enriching the object.
 	- ***Organizational***: The behaviors aids in the organization or placement of the note in the KG. 
 
-
 ## Working on it
-
-
-
-
-
-
-
-
-
-
-
 
 ## New 
 
@@ -112,26 +92,10 @@ The result of this is that notes are organized and described in two main ways.
 1. Through the use of ***search paths***, pathways of notes which start at the MOC and are used to locate any and all notes.
 2. [[Bases]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
 
-
 #### Describing notes
 
 As explained above, notes are KUs which are either located through search paths or bases. When notes are described by search paths, their CCs and KCs are described indirectly through context clues. However, when they are described by bases, we indicate a lot of information by the sue of frontmatter. That's what I will be going over in this section. 
 
 ---
 
-
-
 In this system, ***objects*** are what we are creating with notes. Objects are KUs, and we want to describe their *nature* using [[YAML|frontmatter]]. In order to do this, I have developed the system which I justified above ( #todo). 
-
-
-
-
-
-
-
-
-
-
-
-
- 
