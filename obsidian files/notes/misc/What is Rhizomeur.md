@@ -17,15 +17,29 @@ Above, I stated that I wanted to create, "the ultimate personal knowledge manage
 ---
 
 My vision for this system involves creating a tool which will aide in the tasks of knowledge management:
-1. ***Creating*** - The act of creating information into pieces of information.
-2. ***Displaying*** - The act of displaying the created information.
-3. ***Connecting*** - The act of connecting the individual pieces of information amongst themselves in order to further describe them. 
-4. ***Organizing*** - The act of grouping pieces of information in order to understand and find them. 
-5. ***Contextualizing*** - The act of giving context which helps understand  the pieces of information as a whole. This is similar to **organizing**, however, unlike its counterpart, **contextualizing** is for showing information with no bias, meaning that no given pieces of information are preferred. 
+1. **Creating knowledge**
+2. **Viewing knowledge**
 
-A perfect personal knowledge management system will excel in all of these aspects. A believe that these should be the foundation of any knowledge management system. These tasks represent all of the things I will be trying to achieve with my creation. 
+These are obviously the two main things that any sort of editor needs to be  able to do, but it's important to realize that the task really is as simple as this. Of course, I could go into detail on the things that need to be put in place for *creating* and *viewing* to be satisfactory for me; in fact, I think I will do just that.
 
-As I discuss in [[The theory of information]], I have my personal vision of how organization needs to be done. I think that, if the system does not fulfil my theory and philosophy of organization, then it has note succeeded in its goal at all.
+N.B. All of the decisions made when creating this system will be based on [[The theory of information]]. 
+
+### Creating knowledge
+
+Creating knowledge entails creating Notes. In this system, Notes are knowledge. As stated in my theory, notes are all connected to each other via links.
+
+N.B. As mentioned in [[Representing KUs]], notes do not represent things, but they implicitly represent notes about things. 
+
+If I want creating knowledge to feel seamless in my system, I need the process of adding links and text and all of the other things which describe notes to be extremely easy and most importantly quick.
+
+### Viewing knowledge
+
+
+There are many different ways to view knowledge: knowledge can be viewed as text in a file, or as an item in a list, but the most important out of all of these methods is that of organization. Organization is the act of creating knowledge graphs. This is the absolute most important thing which I must succeed with this tool. 
+
+I would also like to be able to create other tools which will aid in further contextualizing Notes. A tool for viewing the notes in a more Rhizomatic manner would be very nice. On top of this, it will obviously be necessary to be able to view notes on a more individual level, by seeing their text and links. 
+
+
 
 ## Final thoughts
 

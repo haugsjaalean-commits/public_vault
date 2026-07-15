@@ -15,11 +15,12 @@ All Engines will be able to talk amongst each other. Some engines will be comple
 ## Engines
 
 
-[[Arborescent Engine]]
-[[Rhizomatic Engine]]
-[[Textual Engine]]
-[[Graphical Engine]]
-[[Logical Engine]]
+1. [[Arborescent Engine]]
+2. [[Rhizomatic Engine]]
+3. [[File Engine]]
+4. [[Graphical Engine]]
+5. [[Logical Engine]]
+6. [[Contextual Engine]]
 
 
 
