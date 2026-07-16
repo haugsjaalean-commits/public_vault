@@ -1,9 +1,9 @@
+filters:
+  and:
+    - file.hasLink(this.file)
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - file.hasLink(this.file)
     order:
       - file.name
       - is a

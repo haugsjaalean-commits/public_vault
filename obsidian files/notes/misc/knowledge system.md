@@ -16,8 +16,6 @@ A knowledge system is something that approches bringing [[The theory of informat
 
 Now that we have conceptualized a guiding philosophy for information and its organization, we need to put it into application. The main application of this theory is by using it to help us better organize our information. For the time being, my current method of choice for doing that is obsidian, so please read [[Methods of organization in Obsidian]] to see how I'm applying my theory to the reality of Obsidian.
 
-
-
 ## Different knowledge systems 
 
 
