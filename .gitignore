@@ -14,21 +14,14 @@
 # ...and canvases and base dashboards
 !*.canvas
 !*.base
-# ...and the bare Obsidian settings, so the vault opens with sane defaults.
-# This vault no longer ships plugins, themes or snippets: master_vault is the
-# only fully configured vault now, so only app/appearance/core-plugins/graph
-# are kept here.
-!.obsidian/**
 # ...and this file itself
 !.gitignore
 # ...and .gitattributes, which the `*` rule above would otherwise swallow
 !.gitattributes
 
-# But never session/machine state, even inside .obsidian
-.obsidian/workspace*.json
-.obsidian/workspaces.json
-.obsidian/webviewer.json
-# bookmarks still point at notes from the private vault
-.obsidian/bookmarks.json
+# .obsidian is deliberately NOT tracked. master_vault is the only fully
+# configured vault; this one ships notes, not a setup to copy.
+.obsidian/
+
 # Dropbox sync artifacts
 *conflicted copy*
