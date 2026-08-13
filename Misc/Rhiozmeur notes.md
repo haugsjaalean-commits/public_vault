@@ -1,6 +1,6 @@
 # Notes & Links 
 
-## How notes and links relate to [[Public/The theory of information]]
+## How notes and links relate to [[The theory of information - public]]
 
 ### The core concepts of notes (CCs)
 

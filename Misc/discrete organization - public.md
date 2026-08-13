@@ -2,7 +2,7 @@
 > [!info]+ Definition of **discrete organization**
 > **Discrete organization** is a structure of information which describes **knowledge**.
 >
-> Concepts related to [[Public/structures of information#More thoughts on information structures]]:
+> Concepts related to [[structures of information - public#More thoughts on information structures]]:
 > - While there are many potential ways of describing knowledge, this structure seeks to do so by **organizing** it.
 > - When organizing information, we are essentially making the conscious decision to factor out (mettre en évidence) certain common characteristics of KIs to illustrate their connexions. This means that we are deciding to only show a small part of the total knowledge base. This is just like making a guitar song with sheet music: by creating the sheet music we are describing only an infinitesimally small part of the potential music that can be described.
 
@@ -10,7 +10,7 @@
 > **Knowledge** is the understanding of the nature of things. In this structure of information, "things" are *items*. (More often than not, items are KU.)
 
 > [!info]+ Definition of **organization**
-> **Organization** follows [[Public/The principles of organization]].
+> **Organization** follows [[The principles of organization - public]].
 
 ## The rules of discrete organization
 
@@ -47,16 +47,16 @@ Discrete organization is built on the structure of knowledge graphs.
 The KG is constructed step by step according to the following steps:
 1. The root $U$ is created and initially contains the set of all KIs.
 2. A number $n$ of child GPs are created from $U$. Each child contains a subset of the KIs contained in $U$ based on the rule chosen in the GEs.
-3. Depending on the **rigidity of organization** (explained in [[Public/The principles of organization]]), the KIs present in the children will be hidden or removed from the parent.
+3. Depending on the **rigidity of organization** (explained in [[The principles of organization - public]]), the KIs present in the children will be hidden or removed from the parent.
 4. Steps 2 and 3 are recursively repeated on the children $m$ number of times.
 
-N.B. As mentioned in the *definition of discrete organization*, when we are choosing the rules for the GEs in step 2, we are making the conscious decision to show only some of the knowledge - more on this in [[Public/The principles of organization]].
+N.B. As mentioned in the *definition of discrete organization*, when we are choosing the rules for the GEs in step 2, we are making the conscious decision to show only some of the knowledge - more on this in [[The principles of organization - public]].
 
-It might seem strange that I have been talking about *knowledge items* this whole time, instead of simply using *knowledge units*, but there is a very specific reason for this: [[Public/multi-level organization]]. This method allows us to organize organization.
+It might seem strange that I have been talking about *knowledge items* this whole time, instead of simply using *knowledge units*, but there is a very specific reason for this: [[multi-level organization - public]]. This method allows us to organize organization.
 
 ## Knowledge systems
 
-This whole time, I have been developing a theory of moderate complexity, but for what? A theory with no application is a useless thing indeed. That is why we need [[Public/knowledge system]]s.
+This whole time, I have been developing a theory of moderate complexity, but for what? A theory with no application is a useless thing indeed. That is why we need [[knowledge system - public]]s.
 
 ## Légende
 

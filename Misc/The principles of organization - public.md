@@ -24,9 +24,9 @@ N.B. I think that the third step is potentially not part of true organization, m
 # Rigidity of organization
 
 As mentioned in the parent file, the rigidity of organization can change how the KG is created. I believe that there are exactly 3 types of rigidity:
-1. [[Public/loose organization]]
-2. [[Public/semi-rigid organization]]
-3. [[Public/rigid organization]]
+1. [[loose organization - public]]
+2. [[semi-rigid organization - public]]
+3. [[rigid organization - public]]
 
 ## Tableau récapitulatif
 
@@ -37,9 +37,9 @@ As mentioned in the parent file, the rigidity of organization can change how the
 | rigid                    | False                              | False                                           |
 
 ## Philosophical implications
-The debate is which level of rigidity is to be considered as *true organization*. I would argue that [[Public/rigid organization]] is the only true type of organization, as all others break the rules of reality; however I think that there are very strong arguments for [[Public/semi-rigid organization]] as well, as it is more aligned with a more theoretical conception of organization, where we simply choose filters and see results.
+The debate is which level of rigidity is to be considered as *true organization*. I would argue that [[rigid organization - public]] is the only true type of organization, as all others break the rules of reality; however I think that there are very strong arguments for [[semi-rigid organization - public]] as well, as it is more aligned with a more theoretical conception of organization, where we simply choose filters and see results.
 
-## Implications of [[Public/multi-level organization]]
+## Implications of [[multi-level organization - public]]
 
 I theorize that, by using multi-level organization with the more rigid methods of organization, we can achieve the same effect as looser ones.
 
@@ -49,4 +49,4 @@ You might question the utility of going through all of this work just to achieve
 
 #### Fruit example
 
-We have a list of fruit. Each fruit has a native country and a list of potential colors. We want to first group the fruit based on their native country, and then, within these groups, group the fruit based on color. The only problem is that the fruit can have multiple colors, which means that this cannot work in rigid organization; it could, however, work in semi-rigid organization. This is nice, but what if we wanted to try to model this situation in rigid organization? We would need to use [[Public/multi-level organization]]. We need to create multiple duplications of the starting set of KU (the fruit). Then we need to organize all of these by country and, for each color, make another organization for colors. We need to do this process of duplications as many times as there are colors of fruit. The fruit example canvas shows the full process.
+We have a list of fruit. Each fruit has a native country and a list of potential colors. We want to first group the fruit based on their native country, and then, within these groups, group the fruit based on color. The only problem is that the fruit can have multiple colors, which means that this cannot work in rigid organization; it could, however, work in semi-rigid organization. This is nice, but what if we wanted to try to model this situation in rigid organization? We would need to use [[multi-level organization - public]]. We need to create multiple duplications of the starting set of KU (the fruit). Then we need to organize all of these by country and, for each color, make another organization for colors. We need to do this process of duplications as many times as there are colors of fruit. The fruit example canvas shows the full process.

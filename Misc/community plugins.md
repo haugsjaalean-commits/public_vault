@@ -31,4 +31,4 @@ I'm not sure that I would really be able to use Obsidian if it weren't for all o
 
 [[Emoji Toolbar]]
 [[Hyphenation]]
-[[Public/Kanban]]
+[[Kanban]]

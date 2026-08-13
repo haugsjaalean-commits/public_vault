@@ -12,7 +12,7 @@ The greatest logical hole (but also the greatest strength) of my current method 
 I'm not sure that this method has to be a bad thing, but it does tickle my brain: I just can't understand its nature. (I guess I can't understand the nature of anything) 
 
 
-### [[Public/bases|Bases]] and [[metadata]]
+### [[bases - public|Bases]] and [[metadata]]
 
 
 I described the act of using metadata in order to effectively create classes. When we do this, we are basically using [[tags]] to create theoretical KUs. These KUs are arranged in a structure of inheritance. Then, using bases, we are able to create queries which mimic quite well the *edges* in my theory. This is all well and good, but the only problem is that these hierarchies which we are creating with the tags are completely rigid like a folder structure. This is bad, because we don't want to ever fall into this trap of rigidity; we always want to be flexible. 

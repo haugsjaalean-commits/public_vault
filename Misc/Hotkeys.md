@@ -6,8 +6,8 @@ In the settings, you can create hotkeys for almost anything, but I will be listi
 | Hotkey     | Functionality                                |
 | ---------- | -------------------------------------------- |
 | `Ctrl + J` | Open [[Emoji Toolbar]]                       |
-| `Alt + E`  | Apply [[Public/templates\|template]]                |
-| `Alt + N`  | Create new file with [[Public/templates\|template]] |
+| `Alt + E`  | Apply [[templates - public\|template]]                |
+| `Alt + N`  | Create new file with [[templates - public\|template]] |
 | `Ctrl + N` | Create new blank file                        |
 | `Ctrl + F` | Word search                                  |
 | `Alt + H`  | Open [[Homepage]]                            |

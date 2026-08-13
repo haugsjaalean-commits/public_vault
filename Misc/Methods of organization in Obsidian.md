@@ -4,7 +4,7 @@ related:
 aliases:
   - method of organization in Obsidian
 ---
-# OOF: Mapping [[Public/The theory of information|my theory]] onto Obsidian 
+# OOF: Mapping [[The theory of information - public|my theory]] onto Obsidian 
 
 
 ## What is "OOF"?

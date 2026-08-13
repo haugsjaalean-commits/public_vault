@@ -2,7 +2,7 @@
 # The Arborescence Engine
 
 
-This is the engine which represent [[Public/discrete organization]]. 
+This is the engine which represent [[discrete organization - public]]. 
 
 ## Thoughts
 
@@ -32,7 +32,7 @@ By the use of queries, the user is able to create branching search pathways. Wit
 
 
 
-### [[Public/multi-level organization]] in Rhizomeur
+### [[multi-level organization - public]] in Rhizomeur
 
 
 #todo 

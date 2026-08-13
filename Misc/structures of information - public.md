@@ -6,7 +6,7 @@ aliases:
 ---
 ## Uses of structures of information
 
-[[Public/discrete organization]]
+[[discrete organization - public]]
 
 ## Explanation of structures of information
 A **structure of information** is defined by the following three attributes:

@@ -15,7 +15,7 @@ In the most basic form of a task list, tasks only have two states:
 1. Done
 2. Not done
 
-This is very easy to model using a simple [[Public/templates|template]] + [[Public/bases|base]] setup.
+This is very easy to model using a simple [[templates - public|template]] + [[bases - public|base]] setup.
 
 ##### Example 
 

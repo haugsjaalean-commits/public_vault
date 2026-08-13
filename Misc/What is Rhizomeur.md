@@ -22,7 +22,7 @@ My vision for this system involves creating a tool which will aide in the tasks 
 
 These are obviously the two main things that any sort of editor needs to be  able to do, but it's important to realize that the task really is as simple as this. Of course, I could go into detail on the things that need to be put in place for *creating* and *viewing* to be satisfactory for me; in fact, I think I will do just that.
 
-N.B. All of the decisions made when creating this system will be based on [[Public/The theory of information]]. 
+N.B. All of the decisions made when creating this system will be based on [[The theory of information - public]]. 
 
 ### Creating knowledge
 

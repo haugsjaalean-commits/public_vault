@@ -7,7 +7,7 @@
 
 In my original method, I use [[tags]] to describe a class system. Each class inherits from the root class called "object". This seems ok at first; after all, we *are* trying to describe the very nature of our KU (our notes), but, if we think this, we are forgetting one key detail. The *nature* of the KUs are described by all of their connexions, meaning that it cannot be described with just one linear structure. 
 
-However, this linear structure does prove incredibly useful when it comes to filtering with [[Public/bases]] and also creating structures of inheritance with [[Public/templates]]. 
+However, this linear structure does prove incredibly useful when it comes to filtering with [[bases - public]] and also creating structures of inheritance with [[templates - public]]. 
 
 Therefore, the question is how to maintain the positive aspects of inheritance and tags without the negative drawbacks the strict folder-like structure that they create.  
 
@@ -17,7 +17,7 @@ I am completely scrapping the idea of using [[tags]]. Tags only become a hindera
 1. `is a`
 2. `has a`
 
-The only problem is that, if C is a B, and B is a A, then C is a A. This means that a [[Public/bases|base]] which searches for all As should also find Cs and Bs. This isn't possible if all that C says is "is a B". What I take from this is that we have to "inherit" all relationships. This means that ,in the *is a* section of C, we will put this text: "is a B, A". That way, when we search for all As we will also find all Cs. I think that this should work the same for all other relations like *has a*. 
+The only problem is that, if C is a B, and B is a A, then C is a A. This means that a [[bases - public|base]] which searches for all As should also find Cs and Bs. This isn't possible if all that C says is "is a B". What I take from this is that we have to "inherit" all relationships. This means that ,in the *is a* section of C, we will put this text: "is a B, A". That way, when we search for all As we will also find all Cs. I think that this should work the same for all other relations like *has a*. 
 
 N.B. If something *is a* something else, we do not only need to carry over the *is a* information, but we also need to carry of the *has a* information. 
 
@@ -32,7 +32,7 @@ Let's say that we are creating a file for a Labrador. We would have the followin
 
 `is a: dog, (mammal, animal)`
 
-This way, we clearly see that "dog" is the main thing that we want to showcase, and all of the other things are inherited from dog and simply used for querying in [[Public/bases]]. 
+This way, we clearly see that "dog" is the main thing that we want to showcase, and all of the other things are inherited from dog and simply used for querying in [[bases - public]]. 
 
 #### Can I programme it? 
 
@@ -58,7 +58,7 @@ Behaviors can only be given by *is a* relationships.
 
 Using characteristics and behaviors, we can create ***Architypes***. These are like classes, and they serve as collections of characteristics. 
 
-I would suggest creating a note for each Architype, in order to keep track of all of them. Another option would be using PlantUML. If one chooses to make notes to keep track of architypes, they should include the [[Public/templates]] and [[Public/bases]] which they're created for. These Architypes should be kept in a separate `architypes` folder. 
+I would suggest creating a note for each Architype, in order to keep track of all of them. Another option would be using PlantUML. If one chooses to make notes to keep track of architypes, they should include the [[templates - public]] and [[bases - public]] which they're created for. These Architypes should be kept in a separate `architypes` folder. 
 
 Conversely, instead of making *architype* notes, I could make notes listing characteristics and their behaviors. The architypes folder can simply be used for templates. 
 
@@ -90,7 +90,7 @@ What we get from this is that I
 
 The result of this is that notes are organized and described in two main ways. 
 1. Through the use of ***search paths***, pathways of notes which start at the MOC and are used to locate any and all notes.
-2. [[Public/bases]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
+2. [[bases - public]] + [[YAML|frontmatter]]. Some search paths lead to bases, and bases effectively create GPs which link to the remainder of notes not linked to by the search paths. 
 
 #### Describing notes
 

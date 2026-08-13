@@ -5,7 +5,7 @@ aliases:
 
 # Rhizomeur: my perfect KS
 
-I don't think that I will find it very possible to create my perfect [[Methods of organization in Obsidian|method of organization in Obsidian]] until I imagine a perfect knowledge system using [[Public/The theory of information]]. 
+I don't think that I will find it very possible to create my perfect [[Methods of organization in Obsidian|method of organization in Obsidian]] until I imagine a perfect knowledge system using [[The theory of information - public]]. 
 
 ## Creating Rhizomeur 
 

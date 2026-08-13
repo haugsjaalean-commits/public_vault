@@ -11,7 +11,7 @@ These two things alone pose many problems, and I think that one could devote the
 
 ---
 
-A knowledge system is something that approches bringing [[Public/The theory of information]] into the real-world. 
+A knowledge system is something that approches bringing [[The theory of information - public]] into the real-world. 
 ## Obsidian in the context of knowledge systems
 
 Now that we have conceptualized a guiding philosophy for information and its organization, we need to put it into application. The main application of this theory is by using it to help us better organize our information. For the time being, my current method of choice for doing that is obsidian, so please read [[Methods of organization in Obsidian]] to see how I'm applying my theory to the reality of Obsidian.
@@ -19,6 +19,6 @@ Now that we have conceptualized a guiding philosophy for information and its org
 ## Different knowledge systems 
 
 
-[[Public/Obsidian]]
+[[Obsidian - public]]
 [[My perfect KS]]
 

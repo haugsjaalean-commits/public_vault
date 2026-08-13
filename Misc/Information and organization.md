@@ -4,8 +4,8 @@
 ## Pathways 
 
 [[Methods of organization in Obsidian]]
-[[Public/knowledge system]]
-[[Public/The theory of information]]
+[[knowledge system - public]]
+[[The theory of information - public]]
 
 ## Current thoughts 
 
