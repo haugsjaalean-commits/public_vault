@@ -1,11 +1,1 @@
-{
-  "cssTheme": "Soft Paper",
-  "theme": "moonstone",
-  "showRibbon": true,
-  "baseFontSizeAction": false,
-  "textFontFamily": "",
-  "interfaceFontFamily": "",
-  "enabledCssSnippets": [
-    "no_cursor_blink"
-  ]
-}
+{}

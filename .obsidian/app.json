@@ -1,17 +1,1 @@
-{
-  "showLineNumber": true,
-  "readableLineLength": false,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments",
-  "showUnsupportedFiles": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "obsidian files/notes/misc",
-  "showInlineTitle": true,
-  "defaultViewMode": "preview"
-}
+{}
