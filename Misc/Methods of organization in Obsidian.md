@@ -2,7 +2,7 @@
 related:
   - "[Obsidian](https://obsidian.md)"
 aliases:
-  - method of organization in Obsidian
+  - OOfs
 ---
 # OOF: Mapping [[The theory of information - public|my theory]] onto Obsidian 
 
@@ -15,6 +15,7 @@ I think that, to achieve the best results and avoid wasting time thinking, it is
 
 [[OOF 0.0]]
 [[OOF 0.1]]
+[[OOF 0.2]]
 [[OOF 1.0]]
 
 

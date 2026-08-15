@@ -6,3 +6,4 @@
 [[What is Rhizomeur]] 
 [[The creation process of Rhizomeur]] 
 [[The structure and features of Rhizomeur]] 
+[[How to organize with Rhizomeur]]

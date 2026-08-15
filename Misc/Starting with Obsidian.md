@@ -2,6 +2,13 @@
 related:
   - "[[working on the tutorial]]"
 ---
+
+
+
+
+
+
+
 # A comprehensive tutorial explaining my methods
 ## Notes on the tutorial
 ### About the tutorial

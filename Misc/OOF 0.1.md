@@ -1,3 +1,7 @@
+
+
+[[Working on OOF 0.1]]
+
  
 # OOF 0.1: Building on top of my [[OOF 0.0|original method]] to create a more effective system
 
@@ -94,7 +98,7 @@ The result of this is that notes are organized and described in two main ways.
 
 #### Describing notes
 
-As explained above, notes are KUs which are either located through search paths or bases. When notes are described by search paths, their CCs and KCs are described indirectly through context clues. However, when they are described by bases, we indicate a lot of information by the sue of frontmatter. That's what I will be going over in this section. 
+As explained above, notes are KUs which are either located through search paths or bases. When notes are described by search paths, their CCs and KCs are described indirectly through context clues. However, when they are described by bases, we indicate a lot of information by the use of frontmatter. That's what I will be going over in this section. 
 
 ---
 

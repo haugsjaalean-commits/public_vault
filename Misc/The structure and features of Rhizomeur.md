@@ -13,10 +13,5 @@ Rhizomeur is built with three main levels. The goal of this is to keep things as
 To summarize this information, Notes are the definition of knowledge; Engines are what allow us to manipulate and visualize that knowledge; finally, the Interface is what allows us to interact with the Engines. 
 
 
-## conceiving Rhizomeur through the use of examples
-
-
-[[Rhizomeur sculptor example]]
-
 
 
