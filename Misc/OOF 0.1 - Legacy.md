@@ -1,6 +1,5 @@
 
 
-[[Working on OOF 0.1]]
 
  
 # OOF 0.1: Building on top of my [[OOF 0.0|original method]] to create a more effective system
