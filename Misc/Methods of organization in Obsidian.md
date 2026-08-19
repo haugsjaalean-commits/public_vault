@@ -20,6 +20,8 @@ I think that, to achieve the best results and avoid wasting time thinking, it is
 
 These versions of OOF all take the same principles shown in OOF 0.0 and try to make something more flexible. 
 
+All of these OOFs use the principle of notes acting sometimes as GPs 
+
 [[OOF 0.1 - Legacy]]
 [[OOF 0.1]]
 [[OOF 0.2]]
