@@ -1,8 +1,8 @@
 ## Links
 
 [[canvases]]
-[[bases - public]]
-[[templates - public]]
+[[bases]]
+[[templates]]
 [[tags]]
 [[metadata]]
 [[embedding]]

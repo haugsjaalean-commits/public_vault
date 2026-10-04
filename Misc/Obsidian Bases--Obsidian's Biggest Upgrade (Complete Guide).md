@@ -3,7 +3,7 @@ tags:
   - video/tutorial
 YouTube link: https://youtu.be/9Yt52zJIIG0?si=SGQ8dJUu3p2F6A6P
 subjects:
-  - "[[bases - public]]"
+  - "[[bases]]"
 rating: 8.8
 ---
 ## Notes on the tutorial

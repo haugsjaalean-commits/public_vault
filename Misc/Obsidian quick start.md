@@ -18,7 +18,7 @@ First things first, we need to make sure that everything is set up for continuin
 If you don't want to do this, then I would suggest following along with these files before continuing:
 - [[Navigation and workspaces]]
 - [[community plugins]]
-- [[templates - public]]
+- [[templates]]
 
 
 
@@ -39,7 +39,7 @@ To simplify my whole theory, which I explain in [[Organization]], all we want to
 
 ### 4 - Advanced organization techniques
 
-Now that we have mastered making pathways with links in our MOC, we will be taking things to the next level with [[bases - public]] and [[templates - public]]. Once you've read these two files and feel up to speed, I would suggest reading [[Modeling classes]]. This note describes how we can create classes using templates and [[tags]]. These tags will allow us to go the extra mile by creating beautiful lists of notes using bases. Furthermore, bases unlock some crazy functionalities like task lists! 
+Now that we have mastered making pathways with links in our MOC, we will be taking things to the next level with [[bases]] and [[templates]]. Once you've read these two files and feel up to speed, I would suggest reading [[Modeling classes]]. This note describes how we can create classes using templates and [[tags]]. These tags will allow us to go the extra mile by creating beautiful lists of notes using bases. Furthermore, bases unlock some crazy functionalities like task lists! 
 
 ### Bonus section 
 

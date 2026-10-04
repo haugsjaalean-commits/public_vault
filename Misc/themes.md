@@ -9,9 +9,9 @@ Themes can be accessed in the settings, and they offer a fantastic way of creati
 ## My favorite themes
 
 
-[[Blue Topaz - public]]
+[[Blue Topaz]]
 [[Soft Paper]]
-[[LYT Mode - public]]
-[[Prisme - public]]
+[[LYT Mode]]
+[[Prisme]]
 
 

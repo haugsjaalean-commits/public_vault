@@ -1,0 +1,63 @@
+filters:
+  and:
+    - file.folder != "obsidian files/templates"
+    - file.tags.contains("video")
+formulas:
+  word count: file.WordCount()
+  link distance: file.linkDistance()
+  value: (payoff/difficulty).round(2)
+  is a contains self: file.isA() == self
+  is_is_a: this.file == note["is a"]
+  is_type_of: this.file == note["TYPE OF"]
+  connection type: if(formula["is_is_a"], "is a", if(formula["is_type_of"], "type of", "misc"))
+  is is a: this.file == note["is a"]
+  is type of: this.file == note["TYPE OF"]
+  is_class_note_for_self: note["class"].contains(this.file.name)
+  is_class_for_semester: note["semester"].contains(this.file.name)
+  file: file
+  does it have cover image: if([cover image].length > 0, "Has cover", "No cover")
+  avg. RRDC: |
+
+    ((relevance + rating + note["difficulty of concept"]) / 3).round(1)
+  contains_legacy: file.name.lower().contains("legacy")
+  root_distance: if(file.hasTag("class"), if(file.basename == "Obsidian Note", 0, file.inheritsFromDistance("Obsidian Note")), null)
+  ancestors: file.ancestors()
+  sub_classes: file.subclasses()
+  instances: file.instances(1)
+properties:
+  formula.word count:
+    displayName: word count
+  formula.link distance:
+    displayName: link distance
+  formula.is_class_note_for_self:
+    displayName: is_class_note_for_self
+views:
+  - type: table
+    name: all
+    order:
+      - file.name
+      - rating
+      - subjects
+      - YouTube link
+    sort:
+      - property: rating
+        direction: DESC
+    columnSize:
+      note.rating: 90
+  - type: table
+    name: tutorials
+    filters:
+      and:
+        - file.tags.contains("video/tutorial")
+    order:
+      - file.name
+      - rating
+      - subjects
+      - YouTube link
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: rating
+        direction: DESC
+    columnSize:
+      note.rating: 90

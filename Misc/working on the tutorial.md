@@ -18,7 +18,7 @@
 [[my thoughts on the tutorial]]
 
 
-## Idea for [[The theory of information - public]]
+## Idea for [[The theory of information]]
 
 
 
@@ -29,5 +29,5 @@ If a KG has a **database structure**, this means that we are repeating the same 
 ### Another idea I just had
 
 
-Some [[structures of information - public]] can probably be turned into others. It is most likely possible for me to turn a timeline into strict organization; however, it is probably not possible to turn strict organization into sheet music without losses. I think that I can take this idea further, by examining which structures of information can become each other losslessly. 
+Some [[structures of information]] can probably be turned into others. It is most likely possible for me to turn a timeline into strict organization; however, it is probably not possible to turn strict organization into sheet music without losses. I think that I can take this idea further, by examining which structures of information can become each other losslessly. 
 

@@ -13,7 +13,7 @@ The interface of Obsidian is exceedingly simple. It's so simple, in fact, that i
 In the above image, I have outlined the different sections of Obsidian's interface with different colors. 
 - In green, on the left hand side, we see the toolbar, which contains multiple useful options. 
 - In pink, on either side of the screen, we see the side bars, which can be collapsed and expanded. The sidebars contain native functionalities of Obsidian as well as functionalities added by [[community plugins]]. (Some of the key functionalities include: file explorer, search bar, graph view, calendar view, backlink view, etc.) The different options can either be split into separate tabs or grouped into different options contained in one tab. It is important to note that any and all options in the side bars can be moved to the main window portion of the screen, and tabs can also be moved to the side bars.
-- In red, at the center of the screen, are the tabs, which allow us to view our notes, images, [[canvases]] and [[bases - public]]. This is where the main action will be happening. There is an option in the top right corner of each note which allows you to switch between editing mode and reading mode (otherwise called viewing mode). 
+- In red, at the center of the screen, are the tabs, which allow us to view our notes, images, [[canvases]] and [[bases]]. This is where the main action will be happening. There is an option in the top right corner of each note which allows you to switch between editing mode and reading mode (otherwise called viewing mode). 
 
 
 
@@ -64,7 +64,7 @@ The options available in the tool bar are decided by which addons you have enabl
 
 ![[Navigation and workspaces-4.png]]
 
-The options you decide to show/hide entirely depends on what you use and which [[Hotkeys]] you have memorized.
+The options you decide to show/hide entirely depends on what you use and which [[hotkeys]] you have memorized.
 
 
 

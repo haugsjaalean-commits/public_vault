@@ -4,7 +4,7 @@ related:
 aliases:
   - OOfs
 ---
-# OOF: Mapping [[The theory of information - public|my theory]] onto Obsidian 
+# OOF: Mapping [[The theory of information|my theory]] onto Obsidian 
 
 
 ## What is "OOF"?
@@ -30,6 +30,7 @@ All of these OOFs use the principle of notes acting sometimes as GPs
 ### 1
 
 [[OOF 1.0]]
+[[OOF 1.1]]
 
 
 ## The three dimensions of OOFs 

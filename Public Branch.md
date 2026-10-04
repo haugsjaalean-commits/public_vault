@@ -10,10 +10,10 @@ tags:
 
 ## Search pathways 
 
-[[Obsidian - public]]
-[[Information and organization]]
-[[videos base.base]]
-[[Efforts - public]]
+[[Obsidian]]
+[[information and organization]]
+[[videos base - legacy.base]]
+[[Efforts]]
 
 
 ### Misc

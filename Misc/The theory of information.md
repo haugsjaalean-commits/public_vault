@@ -2,7 +2,7 @@
 
 As I believe Artur stated once in class, math is just the creation of abstract concepts... useful abstract concepts. Even something as simple as addition is just as abstract as a derivative (which requires a number to become infinitely small). But there is nothing more useful than math. It's what has allowed us to create computers, these things that I love so much!
 
-Ma théorie repose sur les [[structures of information - public]].
+Ma théorie repose sur les [[structures of information]].
 
 ## Current thoughts on the theory
 

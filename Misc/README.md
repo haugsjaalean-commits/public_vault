@@ -15,7 +15,7 @@ Anyways, these are all things that dozens (maybe hundreds) of people on the inte
 
 ### How to use the vault
 
-I uploaded this vault to my github (`haugsjaalean-commits`) with the `.obsidian` folder. This means that, if you so choose, you may download all of the settings, themes, and plugins that I use. My vault is configured as an arborescence starting at the `O.md` file. I use the [[Hotkeys]] plugin to make accessing it very easy. If you do not choose to copy my `.obsidian` folder, and you only want my notes, then consider reading [[Starting with Obsidian]] to better understand all of the things I use to make my vaults. 
+I uploaded this vault to my github (`haugsjaalean-commits`) with the `.obsidian` folder. This means that, if you so choose, you may download all of the settings, themes, and plugins that I use. My vault is configured as an arborescence starting at the `O.md` file. I use the [[hotkeys]] plugin to make accessing it very easy. If you do not choose to copy my `.obsidian` folder, and you only want my notes, then consider reading [[Starting with Obsidian]] to better understand all of the things I use to make my vaults. 
 
 ### What this vault means to me
 
@@ -29,5 +29,5 @@ Ideas have always been very special and important to me, so, if I leave nothing 
 
 ### This vault going forwards
 
-I plan on continuing to improve and update all of the thoughts I choose to share here. As I said, I plan on sharing as many thoughts as possible. I have a lot of ideas about Obsidian and [[The theory of information - public]], so I will definitely be working on that for a while. 
+I plan on continuing to improve and update all of the thoughts I choose to share here. As I said, I plan on sharing as many thoughts as possible. I have a lot of ideas about Obsidian and [[The theory of information]], so I will definitely be working on that for a while. 
 

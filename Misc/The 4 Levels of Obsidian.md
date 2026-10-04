@@ -3,7 +3,7 @@ tags:
   - video/tutorial
 YouTube link: https://youtu.be/J3KHlz89cRs?si=NcN1uFAn4QYaeqEE
 subjects:
-  - "[[bases - public]]"
+  - "[[bases]]"
   - "[[Navigation and workspaces]]"
 rating: 7
 ---

@@ -53,7 +53,7 @@ The subjects presented here are listed in no specific order, so feel free to go 
 [[Functionalities]]
 [[Markdown essentials]]
 [[Plugins]]
-[[Hotkeys]]
+[[hotkeys]]
 [[How I take notes]]
 [[Settings]]
 [[Bonus]]

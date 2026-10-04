@@ -15,15 +15,15 @@ This is definitely something that I want to put more thought into in the future!
 
 #### Using [[tags]] to describe classes
 While I have seen other people use a different method, my current chosen method for describing the type of the class is by using the `tags` parameter in the frontmatter. I have one main reason for this:
-- By using tags, the class of the object has a clear hierarchy. This is crucial for keeping things logical, and, on top of that, it makes filtering for a specific object in a [[bases - public|base]] exceedingly easy. The [[Tag Wrangler]] plugin is crucial for making the workflow work, as it adds functionalities for renaming and changing tag hierarchies.
+- By using tags, the class of the object has a clear hierarchy. This is crucial for keeping things logical, and, on top of that, it makes filtering for a specific object in a [[bases|base]] exceedingly easy. The [[Tag Wrangler]] plugin is crucial for making the workflow work, as it adds functionalities for renaming and changing tag hierarchies.
 
 (The different method I mentioned earlier consists of simply using the `text` property type in the [[YAML|frontmatter]] as the class type. I can understand the desire to do this, but I see some real advantages to using tags.)
 
 
 #### Adding other crucial frontmatter
 
-Now that we have described what *kind* of object we are dealing with using the tag, we will need to give our object the information that will allow us to sort it in a [[bases - public|base]] and understand what it is. I would put these types of frontmatter into two main categories:
-1. **Organizational frontmatter** is used to sort, filter and group objects in [[bases - public]]. An example of this would be the use of a `rating` parameter, which allows us to easily sort our notes in a [[bases - public|base]]. Moreover, we could use a `category` parameter to easily filter notes when creating sub [[bases - public]].  
+Now that we have described what *kind* of object we are dealing with using the tag, we will need to give our object the information that will allow us to sort it in a [[bases|base]] and understand what it is. I would put these types of frontmatter into two main categories:
+1. **Organizational frontmatter** is used to sort, filter and group objects in [[bases]]. An example of this would be the use of a `rating` parameter, which allows us to easily sort our notes in a [[bases|base]]. Moreover, we could use a `category` parameter to easily filter notes when creating sub [[bases]].  
 2. **Informational frontmatter** is used to tell us crucial information about an object. A good example of this would be a `related` parameter, which is a list of links pointing to related notes. Additionally, we could have a parameter linking to external websites, which enrich the original note, for example a link to an article or a Pinterest board. 
 
 
@@ -43,7 +43,7 @@ A perfect example of my use of [[YAML|frontmatter]] for describing objects is my
 
 
 
-As I showed in the example in the section above, we can use classes, [[bases - public]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complex and abstract lists. That's what I'll be going over in this section. 
+As I showed in the example in the section above, we can use classes, [[bases]], and [[YAML|frontmatter]] to make lists of different things like, in my case, my favorite artists. However, we can also use these tools to create more complex and abstract lists. That's what I'll be going over in this section. 
 
 #### My examples
 
